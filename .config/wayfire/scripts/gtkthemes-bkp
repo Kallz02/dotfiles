@@ -1,0 +1,22 @@
+#!/usr/bin/env bash
+
+
+
+# THEME='Materia-Blackout'
+THEME='Juno-ocean'
+# THEME='Material-DeepOcean-BL'
+ICONS='ePapirus-Dark'
+# FONT='Noto Sans 10'
+FONT='Droid Sans 10'
+CURSOR='Future'
+
+SCHEMA='gsettings set org.gnome.desktop.interface'
+
+apply_themes () {
+	${SCHEMA} gtk-theme "$THEME"
+	${SCHEMA} icon-theme "$ICONS"
+	${SCHEMA} cursor-theme "$CURSOR"
+	${SCHEMA} font-name "$FONT"
+}
+
+apply_themes

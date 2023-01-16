@@ -1,0 +1,292 @@
+/** ********** Fonts ********** **/
+* {
+    font-family: "JetBrains Mono", "Iosevka Nerd Font";
+    font-size: 10px;
+    font-weight: bold;
+    min-height:0;
+}
+
+/** ********** Waybar Window ********** **/
+window#waybar {
+    background: transparent;
+	color: #000000;
+	border-color: #072112;
+  box-shadow: 4px 4px 2px 1px #101010;  
+    transition-property: background-color;
+    transition-duration: .5s;
+}
+
+
+window#waybar.hidden {
+    opacity: 0.5;
+}
+
+/** ********** Backlight ********** **/
+#backlight {
+	/* background-color: #cba6f7; */
+
+  background: rgb(202,158,230);
+  background: linear-gradient(45deg, rgba(202,158,230,1) 0%, rgba(245,194,231,1) 43%, rgba(180,190,254,1) 80%, rgba(137,180,250,1) 100%); 
+  background-size: 150% 150%;
+  animation: gradient 8s ease infinite; 
+  box-shadow: rgba(0, 0, 0, 0.288) 2 2 5 2px;
+  text-shadow: 0 0 5px rgba(0, 0, 0, 0.377);
+  color: #000;
+}
+
+/** ********** Battery ********** **/
+#battery {
+	background-color: #fff;
+  border:2px solid #5b6370;
+  color: #000;
+}
+
+#battery.charging {
+  color: #000;
+}
+
+#battery.plugged {
+  color: #000;
+}
+
+@keyframes blink {
+    to {
+        color: #000000;
+    }
+}
+
+#battery.critical:not(.charging) {
+	background-color: #f38ba8;
+    color: #f38ba8;
+    animation-name: blink;
+    animation-duration: 0.5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+/** ********** Clock ********** **/
+#clock {
+	background: rgb(245,194,231);
+    background: linear-gradient(45deg, rgba(245,194,231,1) 0%, rgba(203,166,247,1) 64%, rgba(202,158,230,1) 100%); 
+    margin-right: 25px;
+    color: #ffffff ;
+    background-size: 150% 150%;
+    text-shadow: 0 0 5px rgba(0, 0, 0, 0.377);
+    animation: gradient 8s ease infinite;
+}
+
+/** ********** CPU ********** **/
+#cpu {
+	background-color: #fff;
+  /*box-shadow: rgba(0, 0, 0, 0.116) 2 2 5 2px;*/
+  box-shadow: 4px 4px 2px 1px #101010;
+	color: #000011;
+
+}
+
+/** ********** Memory ********** **/
+#custom-cpu {
+	color: #000011;
+  background: rgb(202,158,230);
+  background: linear-gradient(45deg, rgba(202,158,230,1) 0%, rgba(245,194,231,1) 43%, rgba(180,190,254,1) 80%, rgba(137,180,250,1) 100%); 
+  background-size: 150% 150%;
+  animation: gradient 10s ease infinite; 
+  box-shadow: rgba(0, 0, 0, 0.288) 2 2 5 2px;
+  text-shadow: 0 0 5px rgba(0, 0, 0, 0.377);
+}
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+/* #custom-cpu { */
+/* 	background-color: #eba0ac; */
+/* 	color: #000011; */
+/* } */
+
+/** ********** Disk ********** **/
+#disk {
+	/* background-color: #b4befe; */
+  background-color:#94e2d5 ;
+  color: #000011;
+  box-shadow: 4px 4px 2px 1px #101010;
+}
+
+/** ********** Tray ********** **/
+#tray {
+  background-color: #0c0b12;
+  padding: 0 12px;
+  margin: 0px 4px 0px 4px;
+  border-radius: 10px;
+  background-clip: padding-box;
+}
+/** ********** MPD ********** **/
+#custom-waybar-media{
+ background: linear-gradient(52deg, rgba(180,190,254,1) 0%, rgba(137,220,235,1) 32%, rgba(137,180,250,1) 72%, rgba(166,227,161,1) 100%); 
+    background-size: 150% 150%;
+    animation: gradient 20s ease infinite;
+    text-shadow: 0 0 5px rgba(0, 0, 0, 0.377);
+  color: #000000; 
+}
+
+
+#mpd {
+	background-color: #94e2d5;
+  color: #000000;
+}
+
+#mpd.disconnected {
+	background-color: #f38ba8;
+  color: #000000;
+
+
+}
+
+#mpd.stopped {
+	/* background-color: #f5c2e7; */
+   background: linear-gradient(52deg, rgba(180,190,254,1) 0%, rgba(137,220,235,1) 32%, rgba(137,180,250,1) 72%, rgba(166,227,161,1) 100%); 
+    background-size: 150% 150%;
+    animation: gradient 20s ease infinite;
+    text-shadow: 0 0 5px rgba(0, 0, 0, 0.377);
+  color: #000000;
+
+}
+
+#mpd.playing {
+	/* background-color: #74c7ec; */
+ background: linear-gradient(52deg, rgba(180,190,254,1) 0%, rgba(137,220,235,1) 32%, rgba(137,180,250,1) 72%, rgba(166,227,161,1) 100%); 
+    background-size: 150% 150%;
+    animation: gradient 20s ease infinite;
+    text-shadow: 0 0 5px rgba(0, 0, 0, 0.377);
+  color: #000000;
+
+}
+
+#mpd.paused {
+  color: #000000;
+
+}
+
+/** ********** Pulseaudio ********** **/
+#pulseaudio {
+	/* background-color: #fab387; */
+
+  background-color:#94e2d5 ;
+  color: #000000;
+
+}
+
+#pulseaudio.bluetooth {
+	background-color: #f5c2e7;
+  color: #000000;
+
+}
+#pulseaudio.muted {
+	background-color: #313244;
+	color: #cdd6f4;
+}
+
+/** ********** Network ********** **/
+#network {
+	/* background-color: #89b4fa; */
+  background: linear-gradient(52deg, rgba(180,190,254,1) 0%, rgba(137,220,235,1) 32%, rgba(137,180,250,1) 72%, rgba(166,227,161,1) 100%); 
+    background-size: 150% 150%;
+    animation: gradient 20s ease infinite;
+    text-shadow: 0 0 5px rgba(0, 0, 0, 0.377);
+  color: #000000;
+
+}
+
+#network.disconnected,#network.disabled {
+	background-color: #313244;
+	color: #cdd6f4;
+}
+#network.linked {
+  color: #000000;
+
+}
+#network.ethernet {
+  color: #000000;
+
+}
+#network.wifi {
+  color: #000000;
+
+}
+
+/** ********** Custom ********** **/
+#custom-menu,#custom-pulseaudio-cycle ,#custom-power, #custom-weather, #custom-updater,#custom-cpu,#custom-waybar-media {
+	border-radius: 10px;
+	margin: 0px 0px;
+	padding: 0px 8px;
+  color: #000000;
+
+}
+
+#custom-menu {
+	background-color: #000011;
+	color: powderblue ;
+  font-size: 12;
+	padding: 0 12px;
+    margin: 0px 2px 0px 2px; 
+    border-radius: 10px;
+    background-clip: padding-box;
+}
+
+#custom-power {
+	background-color: #000;
+  color: powderblue;
+
+	padding: 0 12px;
+    margin: 0px 2px 0px 2px;
+    border-radius: 10px;
+    background-clip: padding-box;
+}
+
+#custom-updater {
+	background-color: #e6ed7b;
+	margin-right: 3px; 
+	padding: 2px 8px;
+	font-size: 12px;
+  color: #000000;
+
+}
+
+#custom-weather {
+	background-color: #cba6f7;
+	margin-right: 3px;
+	padding: 2px 8px;
+	font-size: 12px;
+  color: #000000;
+
+}
+
+/** Common style **/
+#backlight, 
+#battery,
+#clock,
+#cpu,
+#disk,
+#mode,
+#memory,
+#mpd,
+#tray,
+#pulseaudio,
+#network ,
+#custom-cpu{
+  
+   color: #000000;
+
+  /* border: 2px solid gray; */
+  padding: 0 8px;
+  margin: 0px 2px 0px 2px;
+  border-radius: 10px;
+  background-clip: padding-box;
+}
