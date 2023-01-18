@@ -64,22 +64,24 @@
  "hyprland/window": {
         "format": "{}",
         "separate-outputs": true
-    },
+    }, 
 	// waybar-cpu
     "cpu": {
          "interval": 5,
          "format": "﬙ :{usage}%",
+         /* "format": "⏲  :{usage}%", */
     },
            
 	// waybar-custom
     "custom/menu": {
-         "format": "",
+         "format": " ",
          "tooltip": false,
          "on-click": "bash $HOME/.config/wayfire/scripts/menu",
     },
 
     "custom/power":{
-        "format": " ",
+        /* "format": " ", */
+        "format": "🮶 ",
         "on-click": "wlogout",
     },
     "custom/cpu": {
@@ -92,7 +94,7 @@
 	// waybar-disk
     "disk": {
          "interval": 30,
-         "format": " :{free}",
+         "format": "🖸 :{free}",
 
     },           	
 	
@@ -110,10 +112,13 @@
         "format": "{stateIcon} {artist} - {title}",
         "format-disconnected": " Disconnected",
         "format-paused": "{stateIcon} {artist} - {title}",
-        "format-stopped": "Stopped ",
+        /* "format-stopped": "Stopped ", */
+        "format-stopped": "Stopped ⏹️",
         "state-icons": {
-            "paused": "",
-            "playing": ""
+            /* "paused": "", */
+            "paused": "⏯️",
+            /* "playing": "" */
+            "playing": "⏸️"
         },
         "tooltip-format": "MPD (connected)",
         "tooltip-format-disconnected": "MPD (disconnected)",
@@ -131,6 +136,7 @@
 
         "interval": 2,
         "format":"{}  ",
+        /* "format":"{} ⏯️ ", */
         "exec": "playerctl metadata title",
         "on-click": "playerctl play-pause",
         "on-scroll-up": "playerctl previous",
@@ -142,17 +148,19 @@
 		"interval": 5,
         //"interface": "wlan*", // (Optional) To force the use of this interface, set it for netspeed to work
         "format-wifi": " {essid}",
+        /* "format-wifi": "🛜{essid}", */
         "format-ethernet": " {ipaddr}/{cidr}",
         "format-linked": " {ifname} (No IP)",
-        "format-disconnected": "睊 Disconnected",
+        /* "format-disconnected": "睊 Disconnected", */
+        "format-disconnected": "❌ Disconnected",
         "format-disabled": "睊 Disabled",
-        "format-alt": " {bandwidthUpBits} |  {bandwidthDownBits}",
+        "format-alt": "🔼 {bandwidthUpBits} | 🔽 {bandwidthDownBits}",
         "tooltip-format": " {ifname} via {gwaddr}",
     },
 
 	// waybar-pulseaudio
     "pulseaudio": {
-        //"format": "{volume}% {icon} {format_source}",
+        /* "format": "{volume}% {icon} {format_source}", */
         "format": "{icon} {volume}%",
         "format-muted": " Mute",
         "format-bluetooth": " {volume}% {format_source}",
@@ -166,7 +174,7 @@
             "phone": "",
             "portable": "",
             "car": "",
-            "default": ["", "", ""]
+            "default": ["奄", "奔", "墳"]
         },
         "scroll-step": 5.0,
 		// Commands to execute on events

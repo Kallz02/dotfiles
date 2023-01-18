@@ -11,7 +11,7 @@ window#waybar {
     background: transparent;
 	color: #000000;
 	border-color: #072112;
-  box-shadow: 4px 4px 2px 1px #101010;  
+  box-shadow: 4px 4px 2px 1px #000000;  
     transition-property: background-color;
     transition-duration: .5s;
 }
