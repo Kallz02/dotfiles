@@ -8,7 +8,7 @@
     "exclusive": true, 	
     "passthrough": false, 
     "position": "top", 	
-    "height": 18, 		
+    "height": 16, 		
     "width": "", 		
     "spacing": 4, 		
     "margin": 0, 		
@@ -16,7 +16,7 @@
     "margin-bottom": 0,  
     "margin-left": 0, 	
     "margin-right": 0, 	
-    "fixed-center": true, 
+    /* "fixed-center": true,  */
     "ipc": true, 		
     "modules-left": ["custom/menu", "cpu","custom/cpu", "disk"],
     "modules-center": ["clock","tray","custom/waybar-media"],

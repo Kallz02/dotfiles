@@ -22,6 +22,7 @@ lvim.keys.normal_mode["<C-s>"] = ":w<cr>"
 lvim.keys.normal_mode["<Space>t"] = ":ToggleTerm size=12 direction=horizontal<cr>"
 lvim.keys.normal_mode["<Space>r"] = ":RunCodeFile<cr>"
 vim.opt.relativenumber = true
+vim.opt.guifont="JetBrainsMono Nerd Font:h13"
 -- lvim.keys.normal_mode["<S-l>"] = ":BufferLineCycleNext<CR>"
 -- lvim.keys.normal_mode["<S-h>"] = ":BufferLineCyclePrev<CR>"
 -- unmap a default keymapping

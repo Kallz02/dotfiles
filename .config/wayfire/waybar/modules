@@ -74,7 +74,7 @@
            
 	// waybar-custom
     "custom/menu": {
-         "format": " ",
+         "format": "<span> </span>",
          "tooltip": false,
          "on-click": "bash $HOME/.config/wayfire/scripts/menu",
     },
@@ -156,6 +156,8 @@
         "format-disabled": "睊 Disabled",
         "format-alt": "🔼 {bandwidthUpBits} | 🔽 {bandwidthDownBits}",
         "tooltip-format": " {ifname} via {gwaddr}",
+
+        "on-click-right": "connman-gtk",
     },
 
 	// waybar-pulseaudio

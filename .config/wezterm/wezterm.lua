@@ -1,6 +1,6 @@
 local wezterm = require("wezterm")
 return {
-  font_size = 12,
+  font_size = 13,
   enable_tab_bar = false,
   window_padding = {
     left = 0,
@@ -9,5 +9,6 @@ return {
     bottom = 0
   },
   color_scheme = "astromouse (terminal.sexy)",
-  window_background_opacity = 0.28
+  window_background_opacity = 0.28;
+  enable_kitty_graphics=true;
 }
