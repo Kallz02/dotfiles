@@ -20,5 +20,5 @@
     "ipc": true, 		
     "modules-left": ["custom/menu", "cpu","custom/cpu", "disk"],
     "modules-center": ["clock","tray","custom/waybar-media"],
-    "modules-right": ["pulseaudio", "backlight", "network", "battery","custom/power"],
+    "modules-right": ["custom/kernel","pulseaudio", "backlight", "network", "battery","custom/power"],
 }

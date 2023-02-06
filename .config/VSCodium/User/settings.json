@@ -2,7 +2,7 @@
     "workbench.colorTheme": "Ayu Dark Bordered",
     "editor.fontSize": 16,
     "editor.fontFamily": "JetBrainsMono Nerd Font",
-    "editor.fontLigatures": true,
+    "editor.fontLigatures": false,
     "window.titleBarStyle": "custom",
     "editor.lineNumbers": "relative",
     "vscode-neovim.neovimExecutablePaths.darwin": "/usr/local/bin/nvim",

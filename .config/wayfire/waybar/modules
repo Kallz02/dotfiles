@@ -26,6 +26,12 @@
     "exec-if": "sleep 0.1", // Give enough time for `pactl get-default-sink` to update
     "on-click": "pactl --format=json list sinks short | jq -cM --unbuffered \"[.[].name] | .[((index(\\\"$(pactl get-default-sink)\\\")+1)%length)]\" | xargs pactl set-default-sink"
 },
+ "custom/kernel": {
+        /* "format": " {}", */
+        "format": "󰌽  {}",
+        "interval": 7200,
+        "exec": "uname -r", 
+    },
 	// waybar-battery
     "battery": {
 		"interval": 60,

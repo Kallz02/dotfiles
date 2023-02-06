@@ -8,10 +8,12 @@ autoload -Uz compinit && compinit
 # The following lines were added by compinstall
 # zstyle :compinstall filename '/home/akshayk/.zshrc'
 PATH=$HOME/.local/bin:$PATH
+PATH=/opt/rocm/bin:$PATH
 neowofetch -b fastfetch
 eval "$(starship init zsh)"
 PROMPT_EOL_MARK=''
 alias dt='/usr/bin/git --git-dir=$HOME/dotfiles/ --work-tree=$HOME'
+alias neo=' WINIT_UNIX_BACKEND=x11 neovide-lunarvim'
 source /usr/share/nvm/init-nvm.sh
 # Enable syntax highlighting.
 source ~/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh

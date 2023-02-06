@@ -9,6 +9,6 @@ return {
     bottom = 0
   },
   color_scheme = "astromouse (terminal.sexy)",
-  window_background_opacity = 0.28;
+  window_background_opacity = 0.9;
   enable_kitty_graphics=true;
 }
