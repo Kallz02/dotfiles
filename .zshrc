@@ -13,7 +13,7 @@ neowofetch -b fastfetch
 eval "$(starship init zsh)"
 PROMPT_EOL_MARK=''
 alias dt='/usr/bin/git --git-dir=$HOME/dotfiles/ --work-tree=$HOME'
-alias neo=' WINIT_UNIX_BACKEND=x11 neovide-lunarvim'
+alias neo='env -u WAYLAND_DISPLAY neovide-lunarvim '
 source /usr/share/nvm/init-nvm.sh
 # Enable syntax highlighting.
 source ~/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
