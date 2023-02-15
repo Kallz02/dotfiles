@@ -1,0 +1,73 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Android/NewProj">
+          <value>
+            <RecentProjectMetaInfo frameTitle="NewProj – MainActivity.java [NewProj.app.main]" projectWorkspaceId="2JapvaWKyA6Q9CMhW2bSxqRzLqb">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-213.7172.25.2113.9123335" />
+              <option name="buildTimestamp" value="1664506898557" />
+              <frame x="3" y="21" width="1914" height="1056" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1673285044490" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Android/Calculator">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Calculator – MainActivity.java [Calculator.app.main]" projectWorkspaceId="2JdzzIYgPo8wGDOygC8irMConIj">
+              <option name="activationTimestamp" value="1676177490623" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-213.7172.25.2113.9123335" />
+              <option name="buildTimestamp" value="1664506910182" />
+              <frame x="3" y="21" width="953" height="1056" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1676177403282" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/ubclone">
+          <value>
+            <RecentProjectMetaInfo frameTitle="ubclone – MainActivity.java [ubclone.app.main]" projectWorkspaceId="2LcjjysZ3wsBL60v5R7Hwf8oRLS">
+              <option name="activationTimestamp" value="1676178307040" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-221.6008.13.2211.9514443" />
+              <option name="buildTimestamp" value="1674264935589" />
+              <frame x="3" y="21" width="953" height="1056" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1676177492266" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/CarBookingAndroid-main">
+          <value>
+            <RecentProjectMetaInfo frameTitle="CarShareApp – settings.gradle (CarShareApp)" projectWorkspaceId="2LclZZ9hOmAva8AOO99CmUxHAyD">
+              <option name="activationTimestamp" value="1676183289456" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-221.6008.13.2211.9514443" />
+              <option name="buildTimestamp" value="1674264935589" />
+              <frame x="3" y="553" width="953" height="524" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1676183287324" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/Switch">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Switch – newActivity.java [Switch.app.main]" opened="true" projectWorkspaceId="2LcvfQnWuscsvkMSfMj3bJeT1cu">
+              <option name="activationTimestamp" value="1676433422743" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-221.6008.13.2211.9514443" />
+              <option name="buildTimestamp" value="1674264925062" />
+              <frame x="3" y="21" width="1914" height="1056" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1676183290432" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/AndroidStudioProjects" />
+  </component>
+</application>

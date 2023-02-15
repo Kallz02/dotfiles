@@ -1,0 +1,91 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="Android.DeviceManager">
+      <i c="3" l="1673680566895" />
+    </e>
+    <e n="AutoIndentLines">
+      <i c="4" l="1676184415688" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="247" l="1676433254078" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="28" l="1676187752419" />
+    </e>
+    <e n="EditorDown">
+      <i c="31" l="1676187703680" />
+    </e>
+    <e n="EditorEnter">
+      <i c="24" l="1676187733560" />
+    </e>
+    <e n="EditorRight">
+      <i c="1" l="1676184036322" />
+    </e>
+    <e n="EditorTab">
+      <i c="4" l="1676184020801" />
+    </e>
+    <e n="EditorUp">
+      <i c="6" l="1676183885742" />
+    </e>
+    <e n="ExportSettings">
+      <i c="1" l="1676433313616" />
+    </e>
+    <e n="NewProject">
+      <i c="2" l="1676183269737" />
+    </e>
+    <e n="OpenFile">
+      <i c="2" l="1676178293271" />
+    </e>
+    <e n="Run">
+      <i c="6" l="1673680585046" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="1" l="1673623020033" />
+    </e>
+    <e n="ShowSettings">
+      <i c="3" l="1676433233176" />
+    </e>
+    <e n="Stop">
+      <i c="1" l="1673337392578" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="1" l="1673285036345" />
+    </e>
+    <e n="com.android.tools.adtui.workbench.AttachedToolWindow$HideAction">
+      <i c="4" l="1676183570068" />
+    </e>
+    <e n="com.android.tools.adtui.workbench.AttachedToolWindow$SearchAction">
+      <i c="1" l="1676183453916" />
+    </e>
+    <e n="com.intellij.diagnostic.IdeMessagePanel$4">
+      <i c="1" l="1673285050405" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="4" l="1676176427971" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.EmptyAction$MyDelegatingAction">
+      <i c="685" l="1676187754429" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$4">
+      <i c="4" l="1676433423641" />
+    </e>
+    <e n="com.intellij.openapi.updateSettings.impl.UpdateSettingsEntryPointActionProvider$IdeUpdateAction">
+      <i c="1" l="1673623026063" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
+      <i c="6" l="1673680682835" />
+    </e>
+    <e n="com.intellij.refactoring.actions.RenameElementAction">
+      <i c="1" l="1676184598919" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="5" l="1676178487174" />
+    </e>
+    <e n="com.intellij.ui.CommonActionsPanel$AddButton">
+      <i c="1" l="1676433279497" />
+    </e>
+    <e n="template.create.ActivityEmpty Activity">
+      <i c="1" l="1676183658473" />
+    </e>
+  </component>
+</application>

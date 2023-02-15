@@ -1,0 +1,20 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/Android/Calculator" value="true" />
+        <entry key="$USER_HOME$/Android/NewProj" value="true" />
+        <entry key="$USER_HOME$/AndroidStudioProjects/Switch" value="true" />
+        <entry key="$USER_HOME$/AndroidStudioProjects/ubclone" value="true" />
+        <entry key="$USER_HOME$/Downloads/CarBookingAndroid-main" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$/Android" />
+      </list>
+    </option>
+  </component>
+</application>

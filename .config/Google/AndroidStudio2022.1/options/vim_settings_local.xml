@@ -1,0 +1,66 @@
+<application>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/AndroidStudioProjects/Switch/app/src/main/java/com/example/aswitch/MainActivity.java" timestamp="1676183970781">
+        <mark key="[" line="28" column="32" />
+        <mark key="]" line="37" column="4" />
+        <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Switch/app/src/main/res/layout/activity_main.xml" timestamp="1676183696014">
+        <mark key="[" line="8" column="3" />
+        <mark key="]" line="27" column="62" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Switch/app/src/main/res/values/strings.xml" timestamp="1676184429419">
+        <mark key="[" line="5" column="20" />
+        <mark key="]" line="5" column="34" />
+        <mark key="." line="5" column="33" />
+        <mark key="^" line="5" column="34" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Switch/app/src/main/java/com/example/aswitch/newActivity.java" timestamp="1676190431861">
+        <mark key="[" line="21" column="1" />
+        <mark key="]" line="18" column="26" />
+        <mark key="^" line="18" column="26" />
+        <mark key="." line="18" column="25" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Switch/app/src/main/res/layout/activity_new.xml" timestamp="1676183715887">
+        <mark key="[" line="11" column="39" />
+        <mark key="]" line="11" column="39" />
+        <mark key="." line="11" column="38" />
+        <mark key="^" line="11" column="39" />
+      </file>
+      <file name="/fragment.java" timestamp="1676183658513">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/" timestamp="1673337019901">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps />
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iY2MiPkNoYW5nZUFjdGl2aXR5PC9zdHJpbmc+Cg==</text>
+      </register>
+      <register name="1" type="4">
+        <text encoding="base64">cHJpdmF0ZSB2b2lkIGNoYW5nQWN0aXZpdHkoKXsKCiAgICAgICAgfQ==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">VGV4dFZpZXcgbG9sPWZpbmRWaWV3QnlJZChSLmlkLnRleHRWaWV3KTs=</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">VGV4dFZpZXcgbG9sPWZpbmRWaWV3QnlJZChSLmlkLnRleHRWaWV3KTs=</text>
+      </register>
+      <register name="." type="4">
+        <text encoding="base64">VGV4dFZpZXdhbmRyb2lkLndpZGdldC5pbXBvcnQgYW5kcm9pZC53aWRnZXQuVGV4dFZpZXc7IGxvbC1SPWZpbmRWaWV3QnlJZCgpUi5pZC50ZXh0Vmlldztsb2wvLnNldFRleHQoKTtuYW1l</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+</application>

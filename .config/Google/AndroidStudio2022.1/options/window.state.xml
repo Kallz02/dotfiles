@@ -1,0 +1,59 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="960" y="528" />
+  </component>
+  <component name="ToolWindowLayout">{
+  &quot;v1&quot;: [
+    {
+      &quot;id&quot;: &quot;Project&quot;,
+      &quot;order&quot;: 0,
+      &quot;contentUiType&quot;: &quot;COMBO&quot;,
+      &quot;weight&quot;: 0.25
+    },
+    {
+      &quot;id&quot;: &quot;Version Control&quot;,
+      &quot;order&quot;: 0,
+      &quot;anchor&quot;: &quot;BOTTOM&quot;
+    },
+    {
+      &quot;id&quot;: &quot;Find&quot;,
+      &quot;order&quot;: 1,
+      &quot;anchor&quot;: &quot;BOTTOM&quot;
+    },
+    {
+      &quot;id&quot;: &quot;Run&quot;,
+      &quot;order&quot;: 2,
+      &quot;anchor&quot;: &quot;BOTTOM&quot;
+    },
+    {
+      &quot;id&quot;: &quot;Debug&quot;,
+      &quot;order&quot;: 3,
+      &quot;anchor&quot;: &quot;BOTTOM&quot;,
+      &quot;weight&quot;: 0.4
+    },
+    {
+      &quot;id&quot;: &quot;Inspection&quot;,
+      &quot;order&quot;: 4,
+      &quot;anchor&quot;: &quot;BOTTOM&quot;,
+      &quot;weight&quot;: 0.4
+    }
+  ]
+}</component>
+  <component name="WindowManager">
+    <frame x="3" y="21" width="1914" height="1056" />
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="743" y="307" width="424" height="454" key="FileChooserDialogImpl" timestamp="1673285040320">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="743" y="307" width="424" height="454" key="FileChooserDialogImpl/0.0.1920.1080" timestamp="1673285040320" />
+    <state x="552" y="858" width="300" height="187" key="ProcessPopupWindow" timestamp="1676178440311">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="858" width="300" height="187" key="ProcessPopupWindow/0.0.1920.1080" timestamp="1676178440311" />
+    <state x="960" y="528" width="953" height="1056" key="WELCOME_SCREEN" timestamp="1673285044478">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="960" y="528" width="953" height="1056" key="WELCOME_SCREEN/0.0.1920.1080" timestamp="1673285044478" />
+  </component>
+</application>
