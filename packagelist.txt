@@ -473,3 +473,4 @@ zrythm
 zsh
 zsh-autosuggestions
 zsh-syntax-highlighting
+flatpak-xdg-utils
