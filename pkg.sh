@@ -1,6 +1,6 @@
 #!/bin/sh
 # Get the list of installed packages
-paru -Qqe > installed_packages.txt
+paru -Qqe | grep -vE '^(chaotic-keyring|chaotic-mirrorlist)' > installed_packages.txt
 
 # Check if the packagelist file exists
 if [ -f packagelist.txt ]

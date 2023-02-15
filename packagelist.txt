@@ -40,8 +40,6 @@ brillo
 carla
 catppuccin-gtk-theme-mocha
 cava
-chaotic-keyring
-chaotic-mirrorlist
 clipman
 connman
 connman-gtk
