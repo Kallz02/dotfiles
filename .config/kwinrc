@@ -1,0 +1,48 @@
+[$Version]
+update_info=kwin.upd:replace-scalein-with-scale,kwin.upd:port-minimizeanimation-effect-to-js,kwin.upd:port-scale-effect-to-js,kwin.upd:port-dimscreen-effect-to-js,kwin.upd:auto-bordersize,kwin.upd:animation-speed,kwin.upd:desktop-grid-click-behavior,kwin.upd:no-swap-encourage,kwin.upd:make-translucency-effect-disabled-by-default,kwin.upd:remove-flip-switch-effect,kwin.upd:remove-cover-switch-effect,kwin.upd:remove-cubeslide-effect,kwin.upd:remove-xrender-backend,kwin.upd:enable-scale-effect-by-default,kwin.upd:overview-group-plugin-id,kwin.upd:animation-speed-cleanup,kwin.upd:replace-cascaded-zerocornered
+
+[Desktops]
+Id_1=6f9a1c59-0879-475f-b151-6fd430a57e72
+Id_2=eeaedf4f-a9f0-402b-bbed-481ebcaa9dca
+Id_3=3edaf17e-0c71-42f8-a567-dae977a89953
+Id_4=68bd31cb-b244-44b7-a74d-20dfc0cfc9b4
+Id_5=207308cf-de2b-4cb3-b429-587331ec3468
+Id_6=066237e7-f25a-4142-bc26-bf2a422af5e0
+Id_7=8a9fb8f8-6fa9-4804-8c84-7ad1b96a33d7
+Id_8=24e2ce23-331b-4e0a-8ab6-88da10b9b722
+Id_9=f2b36ad5-ef20-46f2-85b9-fb22c44cac0a
+Name_2=New Desktop
+Name_3=New Desktop
+Name_4=New Desktop
+Name_5=New Desktop
+Name_6=New Desktop
+Name_7=New Desktop
+Name_8=New Desktop
+Name_9=New Desktop
+Number=9
+Rows=1
+
+[Effect-desktopgrid]
+DesktopLayoutMode=1
+DesktopNameAlignment=132
+
+[Plugins]
+blurEnabled=false
+contrastEnabled=false
+diminactiveEnabled=true
+kwin4_effect_shapecornersEnabled=true
+magnifierEnabled=true
+wobblywindowsEnabled=true
+zoomEnabled=false
+
+[Tiling]
+padding=4
+
+[Tiling][a9b61243-ad36-52dc-9d68-c4d5b59bbe83]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[org.kde.kdecoration2]
+BorderSize=None
+BorderSizeAuto=false
+library=org.kde.breezeenhanced
+theme=BreezeEnhanced

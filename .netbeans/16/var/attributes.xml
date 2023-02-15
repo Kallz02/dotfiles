@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE attributes PUBLIC "-//NetBeans//DTD DefaultAttributes 1.0//EN" "http://www.netbeans.org/dtds/attributes-1_0.dtd">
+<attributes version="1.0">
+    <fileobject name="|home|akshayk|Coding|netbeans|CRUDSQL|src|java|CRUDSQL|NewServlet.java">
+        <attr name="org.netbeans.modules.web.IsServletFile" boolvalue="true"/>
+    </fileobject>
+    <fileobject name="|home|akshayk|Coding|netbeans|WebApplication1|src|java|WebApplication1|NewServlet.java">
+        <attr name="org.netbeans.modules.web.IsServletFile" boolvalue="true"/>
+    </fileobject>
+    <fileobject name="|home|akshayk|Coding|netbeans|arm|src|java|arm|arm.java">
+        <attr name="org.netbeans.modules.web.IsServletFile" boolvalue="true"/>
+    </fileobject>
+    <fileobject name="|home|akshayk|Coding|netbeans|arm|src|java|arm|strng.java">
+        <attr name="org.netbeans.modules.web.IsServletFile" boolvalue="true"/>
+    </fileobject>
+</attributes>
