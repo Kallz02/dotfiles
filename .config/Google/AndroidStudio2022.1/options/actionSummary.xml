@@ -37,16 +37,16 @@
       <i c="2" l="1676178293271" />
     </e>
     <e n="Run">
-      <i c="6" l="1673680585046" />
+      <i c="8" l="1676528671848" />
     </e>
     <e n="SettingsEntryPoint">
       <i c="1" l="1673623020033" />
     </e>
     <e n="ShowSettings">
-      <i c="3" l="1676433233176" />
+      <i c="5" l="1676526923218" />
     </e>
     <e n="Stop">
-      <i c="1" l="1673337392578" />
+      <i c="2" l="1676528683495" />
     </e>
     <e n="WelcomeScreen.OpenProject">
       <i c="1" l="1673285036345" />
@@ -60,11 +60,17 @@
     <e n="com.intellij.diagnostic.IdeMessagePanel$4">
       <i c="1" l="1673285050405" />
     </e>
+    <e n="com.intellij.execution.actions.RunConfigurationsComboBoxAction$SelectConfigAction">
+      <i c="1" l="1676527175386" />
+    </e>
     <e n="com.intellij.notification.NotificationAction$Simple">
       <i c="4" l="1676176427971" />
     </e>
     <e n="com.intellij.openapi.actionSystem.EmptyAction$MyDelegatingAction">
       <i c="685" l="1676187754429" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="1" l="1676528352082" />
     </e>
     <e n="com.intellij.openapi.ui.DialogWrapper$4">
       <i c="4" l="1676433423641" />
@@ -83,6 +89,21 @@
     </e>
     <e n="com.intellij.ui.CommonActionsPanel$AddButton">
       <i c="1" l="1676433279497" />
+    </e>
+    <e n="com.intellij.ui.dsl.builder.impl.SegmentedButtonAction">
+      <i c="2" l="1676526669361" />
+    </e>
+    <e n="flutter.NewProject">
+      <i c="2" l="1676527056329" />
+    </e>
+    <e n="io.flutter.FlutterInitializer$3">
+      <i c="1" l="1676526641513" />
+    </e>
+    <e n="io.flutter.actions.DeviceSelectorAction$SelectDeviceAction">
+      <i c="1" l="1676527121886" />
+    </e>
+    <e n="io.flutter.actions.OpenEmulatorAction">
+      <i c="1" l="1676528361815" />
     </e>
     <e n="template.create.ActivityEmpty Activity">
       <i c="1" l="1676183658473" />

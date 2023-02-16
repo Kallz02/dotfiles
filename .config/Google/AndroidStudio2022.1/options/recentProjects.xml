@@ -55,14 +55,26 @@
         </entry>
         <entry key="$USER_HOME$/AndroidStudioProjects/Switch">
           <value>
-            <RecentProjectMetaInfo frameTitle="Switch – newActivity.java [Switch.app.main]" opened="true" projectWorkspaceId="2LcvfQnWuscsvkMSfMj3bJeT1cu">
-              <option name="activationTimestamp" value="1676433422743" />
+            <RecentProjectMetaInfo frameTitle="Switch – newActivity.java [Switch.app.main]" projectWorkspaceId="2LcvfQnWuscsvkMSfMj3bJeT1cu">
+              <option name="activationTimestamp" value="1676527086902" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="AI-221.6008.13.2211.9514443" />
               <option name="buildTimestamp" value="1674264925062" />
               <frame x="3" y="21" width="1914" height="1056" />
               <option name="productionCode" value="AI" />
               <option name="projectOpenTimestamp" value="1676183290432" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/untitled">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2LoAVBUREoKD0tIkeQWIyq6NRtB">
+              <option name="activationTimestamp" value="1676528652843" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-221.6008.13.2211.9514443" />
+              <option name="buildTimestamp" value="1674264918783" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1676527087145" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

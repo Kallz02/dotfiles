@@ -2,12 +2,20 @@
 update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_value_default_enum
 
 [LegacySession: saved at previous logout]
-count=0
+clientMachine1=localhost
+command1=pamac-manager
+count=1
 
 [Session: saved at previous logout]
-clientId1=10103123cae6000167586533900000537100005
-count=1
+clientId1=10103123cae6000167646027700000102470004
+clientId2=10103123cae6000167646296100000102470010
+count=2
+discardCommand2[$e]=rm,$HOME/.config/session/dolphin_10103123cae6000167646296100000102470010_1676464353_741895
 program1=/usr/lib/DiscoverNotifier
-restartCommand1=/usr/lib/DiscoverNotifier,-session,10103123cae6000167586533900000537100005_1676423106_860572
+program2=/sbin/dolphin
+restartCommand1=/usr/lib/DiscoverNotifier,-session,10103123cae6000167646027700000102470004_1676464353_741885
+restartCommand2=/sbin/dolphin,-session,10103123cae6000167646296100000102470010_1676464353_741895
 restartStyleHint1=0
+restartStyleHint2=0
 userId1=akshayk
+userId2=akshayk

@@ -30,8 +30,8 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/aswitch/newActivity.java">
           <provider selected="true" editor-type-id="android-source-code">
             <state>
-              <editor-state relative-caret-position="513">
-                <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+              <editor-state relative-caret-position="540">
+                <caret line="22" selection-start-line="22" selection-end-line="22" />
               </editor-state>
               <multi-preview-state selected="">
                 <representations>
@@ -71,10 +71,10 @@
   </component>
   <component name="FileTypeUsageLocalSummary">
     <fileType name="JAVA">
-      <summary usageCount="4" lastUsed="1676433212859" />
+      <summary usageCount="8" lastUsed="1676526622145" />
     </fileType>
     <fileType name="XML">
-      <summary usageCount="6" lastUsed="1676433212839" />
+      <summary usageCount="12" lastUsed="1676526622127" />
     </fileType>
   </component>
   <component name="IdeDocumentHistory">
@@ -96,6 +96,8 @@
   <component name="ProjectView">
     <navigator currentView="AndroidView" proportions="" version="1" />
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
       <pane id="AndroidView">
         <subPane>
           <expand>
@@ -135,12 +137,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="ProjectPane" />
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="ToolWindowManager">
+    <editor active="true" />
     <layout>
       <window_info id="Bookmarks" order="0" side_tool="true" />
       <window_info id="Build Variants" order="1" side_tool="true" />
@@ -179,10 +180,18 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="708" y="400" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1676433322343" />
-    <state x="461" y="199" key="SettingsEditor" timestamp="1676433303118">
+    <state x="748" y="322" key="FileChooserDialogImpl" timestamp="1676527063196">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="461" y="199" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1676433303118" />
+    <state x="748" y="322" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1676527063196" />
+    <state x="461" y="199" key="SettingsEditor" timestamp="1676527049826">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="199" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1676527049826" />
+    <state x="560" y="249" key="new project wizard" timestamp="1676527082843">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="249" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1676527082843" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
@@ -190,20 +199,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_new.xml">
       <provider selected="true" editor-type-id="android-designer2" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/aswitch/newActivity.java">
-      <provider selected="true" editor-type-id="android-source-code">
-        <state>
-          <editor-state relative-caret-position="513">
-            <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-          </editor-state>
-          <multi-preview-state selected="">
-            <representations>
-              <list />
-            </representations>
-          </multi-preview-state>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -217,6 +212,20 @@
         <state>
           <editor-state relative-caret-position="729">
             <caret line="35" selection-start-line="35" selection-end-line="35" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/aswitch/newActivity.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="540">
+            <caret line="22" selection-start-line="22" selection-end-line="22" />
           </editor-state>
           <multi-preview-state selected="">
             <representations>

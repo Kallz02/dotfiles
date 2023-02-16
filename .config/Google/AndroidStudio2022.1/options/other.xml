@@ -27,6 +27,11 @@
             <ProjectPluginTracker />
           </value>
         </entry>
+        <entry key="2LoAVBUREoKD0tIkeQWIyq6NRtB">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
       </map>
     </trackers>
   </component>
@@ -99,6 +104,7 @@
     "AndroidInitConfigurator.V1": "true",
     "AndroidInitConfigurator.V3": "true",
     "AndroidInitConfigurator.V5": "true",
+    "FLUTTER_LAST_SURVEY_CONTENT_CHECK_KEY": "1676527094776",
     "RunOnceActivity.cidr.test.framework.showIndexingAsTask": "true",
     "RunOnceActivity.se.text.search": "true",
     "SAVED_ANDROID_NPW_ASKED_LANGUAGE": "true",
@@ -109,21 +115,35 @@
     "SPLIT_EDITOR_MODE_/home/akshayk/AndroidStudioProjects/Switch/app/src/main/res/layout/activity_new.xml": "DEACTIVATED",
     "SettingsSearchHistory": "settings",
     "Source Code Editor With PreviewLayout": "Editor only",
-    "appcds.runOnSecondStart": "AI-221.6008.13.2211.9514443-7cea0119ba3998b22a9f582ee3825772b822c8daeda9ea98ec6d0bb7445e893d",
+    "appcds.runOnSecondStart": "AI-221.6008.13.2211.9514443-f495a41a59ad796e1d860790bd125b7828d1d44bcd8105607507167d85e179f3",
     "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
     "bundled.plugins.list.saved.version": "AI-221.6008.13.2211.9514443",
-    "file.gist.reindex.count": "96",
+    "com.intellij.ide.projectWizard.generators.JavaNewProjectWizard$Step.selectedStep": "IntelliJ",
+    "com.intellij.ide.wizard.NewProjectWizardLanguageStep.selectedStep": "Java",
+    "defaultJdkConfigured": "true",
+    "file.gist.reindex.count": "101",
     "fileTypeChangedCounter": "1",
     "gotit.previous.run": "AI-221.6008.13.2211.9514443",
-    "ideavim.statistics.timestamp": "1676176501946",
+    "ideavim.statistics.timestamp": "1676527087283",
     "ignore.vm.options.env.vars": "true",
     "input.method.disabler.muted": "true",
     "installed.kotlin.plugin.version": "221-1.8.0-release-for-android-studio-AS5591.52",
+    "io.flutter.analytics.clientId": "4ff151f2-c0be-41a6-8a90-f29c04675c9a",
+    "io.flutter.analytics.optOut": "true",
+    "io.flutter.analytics.toastShown": "true",
+    "io.flutter.console.preferencesSet": "true",
+    "jdk.selected.JAVA_MODULE": "11",
+    "last_opened_file_path": "/opt/flutter",
+    "project.wizard.group": "JAVA_MODULE_io.flutter.module.FlutterModuleBuilder",
     "registry.to.advanced.settings.migration.build": "AI-221.6008.13.2211.9514443",
     "tasks.pass.word.conversion.enforced": "true"
   },
   "keyToStringList": {
+    "FLUTTER_SDK_KNOWN_PATHS": [
+      "/opt/flutter"
+    ],
     "file.chooser.recent.files": [
+      "/opt/flutter",
       "/home/akshayk/Downloads/CarBookingAndroid-main"
     ],
     "fileTypeDetectors": [
