@@ -1,6 +1,10 @@
 <application>
   <component name="DimensionService">
     <location key="WELCOME_SCREEN.0.0.1920.1080" x="960" y="528" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1868" height="115" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1868" height="115" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1868" height="115" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1868" height="115" />
   </component>
   <component name="ToolWindowLayout">{
   &quot;v1&quot;: [
@@ -40,17 +44,17 @@
   ]
 }</component>
   <component name="WindowManager">
-    <frame x="3" y="21" width="1914" height="1056" />
+    <frame x="3" y="21" width="953" height="1056" />
   </component>
   <component name="WindowStateApplicationService">
     <state x="743" y="307" width="424" height="454" key="FileChooserDialogImpl" timestamp="1673285040320">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="743" y="307" width="424" height="454" key="FileChooserDialogImpl/0.0.1920.1080" timestamp="1673285040320" />
-    <state x="552" y="858" width="300" height="187" key="ProcessPopupWindow" timestamp="1676178440311">
+    <state x="1197" y="780" width="300" height="187" key="ProcessPopupWindow" timestamp="1676528525158">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="552" y="858" width="300" height="187" key="ProcessPopupWindow/0.0.1920.1080" timestamp="1676178440311" />
+    <state x="1197" y="780" width="300" height="187" key="ProcessPopupWindow/0.0.1920.1080" timestamp="1676528525158" />
     <state x="960" y="528" width="953" height="1056" key="WELCOME_SCREEN" timestamp="1673285044478">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>

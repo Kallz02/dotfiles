@@ -104,8 +104,8 @@ ForegroundPositive=161,180,186
 ForegroundVisited=161,180,186
 
 [DirSelect Dialog]
-DirSelectDialog Size=824,566
-History Items[$e]=file:$HOME/.themes/Carl,file:$HOME/.themes/PearDarkBlue,file:$HOME/.themes
+DirSelectDialog Size=846,616
+History Items[$e]=file:$HOME,file:$HOME/Music/Salem/Videos,file:$HOME/.themes/Carl,file:$HOME/.themes/PearDarkBlue,file:$HOME/.themes
 
 [General]
 BrowserApplication=brave-browser-nightly.desktop

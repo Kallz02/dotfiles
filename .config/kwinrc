@@ -27,10 +27,11 @@ DesktopLayoutMode=1
 DesktopNameAlignment=132
 
 [Plugins]
-blurEnabled=false
+blurEnabled=true
 contrastEnabled=false
 diminactiveEnabled=true
 kwin4_effect_shapecornersEnabled=true
+kwin4_effect_translucencyEnabled=true
 magnifierEnabled=true
 wobblywindowsEnabled=true
 zoomEnabled=false
@@ -38,11 +39,21 @@ zoomEnabled=false
 [Tiling]
 padding=4
 
+[Tiling][5b7a5ba4-43cc-5910-8e98-f358f9d54b43]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
 [Tiling][a9b61243-ad36-52dc-9d68-c4d5b59bbe83]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
+[Tiling][acd252e1-f239-5526-8ae1-73c95eb405d4]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
 [Windows]
-BorderlessMaximizedWindows=true
+BorderlessMaximizedWindows=false
+FocusPolicy=FocusFollowsMouse
+
+[Xwayland]
+Scale=1
 
 [org.kde.kdecoration2]
 BorderSize=None

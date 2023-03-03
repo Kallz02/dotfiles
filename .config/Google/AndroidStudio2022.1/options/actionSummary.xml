@@ -7,7 +7,7 @@
       <i c="4" l="1676184415688" />
     </e>
     <e n="EditorBackSpace">
-      <i c="247" l="1676433254078" />
+      <i c="277" l="1677819577242" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="28" l="1676187752419" />
@@ -34,16 +34,16 @@
       <i c="2" l="1676183269737" />
     </e>
     <e n="OpenFile">
-      <i c="2" l="1676178293271" />
+      <i c="3" l="1676720678737" />
     </e>
     <e n="Run">
-      <i c="8" l="1676528671848" />
+      <i c="9" l="1676726011820" />
     </e>
     <e n="SettingsEntryPoint">
       <i c="1" l="1673623020033" />
     </e>
     <e n="ShowSettings">
-      <i c="5" l="1676526923218" />
+      <i c="6" l="1677819506314" />
     </e>
     <e n="Stop">
       <i c="2" l="1676528683495" />
@@ -64,7 +64,7 @@
       <i c="1" l="1676527175386" />
     </e>
     <e n="com.intellij.notification.NotificationAction$Simple">
-      <i c="4" l="1676176427971" />
+      <i c="5" l="1677819158796" />
     </e>
     <e n="com.intellij.openapi.actionSystem.EmptyAction$MyDelegatingAction">
       <i c="685" l="1676187754429" />
@@ -85,7 +85,7 @@
       <i c="1" l="1676184598919" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
-      <i c="5" l="1676178487174" />
+      <i c="7" l="1677819434618" />
     </e>
     <e n="com.intellij.ui.CommonActionsPanel$AddButton">
       <i c="1" l="1676433279497" />

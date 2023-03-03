@@ -68,13 +68,27 @@
         </entry>
         <entry key="$USER_HOME$/AndroidStudioProjects/untitled">
           <value>
-            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2LoAVBUREoKD0tIkeQWIyq6NRtB">
-              <option name="activationTimestamp" value="1676528652843" />
+            <RecentProjectMetaInfo frameTitle="untitled – main.dart [untitled]" projectWorkspaceId="2LoAVBUREoKD0tIkeQWIyq6NRtB">
+              <option name="activationTimestamp" value="1676720686809" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="AI-221.6008.13.2211.9514443" />
               <option name="buildTimestamp" value="1674264918783" />
+              <frame x="3" y="21" width="1914" height="1056" />
               <option name="productionCode" value="AI" />
               <option name="projectOpenTimestamp" value="1676527087145" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/Calculator">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Calculator – MainActivity.java [Calculator.app.main]" opened="true" projectWorkspaceId="2JdzzIYgPo8wGDOygC8irMConIj">
+              <option name="activationTimestamp" value="1677820147355" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-221.6008.13.2211.9514443" />
+              <option name="buildTimestamp" value="1674264927739" />
+              <frame x="3" y="21" width="953" height="1056" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1676720687447" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

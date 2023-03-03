@@ -12,7 +12,7 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/calculator/MainActivity.java">
           <provider selected="true" editor-type-id="android-source-code">
             <state>
-              <editor-state relative-caret-position="-54">
+              <editor-state relative-caret-position="270">
                 <caret line="10" column="50" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
               </editor-state>
               <multi-preview-state selected="">
@@ -28,7 +28,7 @@
   </component>
   <component name="FileTypeUsageLocalSummary">
     <fileType name="JAVA">
-      <summary usageCount="8" lastUsed="1676176419461" />
+      <summary usageCount="10" lastUsed="1677819133318" />
     </fileType>
   </component>
   <component name="IgnoredFileRootStore">
@@ -39,39 +39,13 @@
     </option>
   </component>
   <component name="ProjectView">
-    <navigator currentView="AndroidView" proportions="" version="1" />
-    <panes>
-      <pane id="ProjectPane" />
-      <pane id="AndroidView">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Calculator" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-            </path>
-            <path>
-              <item name="Calculator" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="manifests" type="f94875db:AndroidManifestsGroupNode" />
-            </path>
-            <path>
-              <item name="Calculator" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-            </path>
-            <path>
-              <item name="Calculator" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="calculator" type="cbb59c9e:AndroidPsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-    </panes>
+    <navigator proportions="" version="1" />
+    <panes />
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Android App.app" executorId="Run" />
+    </history>
   </component>
   <component name="ToolWindowManager">
     <editor active="true" />
@@ -86,7 +60,7 @@
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="2" />
-      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="Run" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="5" />
       <window_info anchor="bottom" id="Problems View" order="6" />
@@ -94,7 +68,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="clangd" order="9" />
       <window_info anchor="bottom" id="Logcat" order="10" />
-      <window_info anchor="bottom" id="Build" order="11" />
+      <window_info anchor="bottom" id="Build" order="11" weight="0.33001894" />
       <window_info anchor="bottom" id="Services" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="App Inspection" order="13" />
       <window_info anchor="bottom" id="Android Profiler" order="14" />
@@ -113,14 +87,32 @@
     </layout>
     <recentWindows>
       <value>Upgrade Assistant</value>
-      <value>Project</value>
       <value>Assistant:</value>
+      <value>Project</value>
       <value>Device Manager</value>
       <value>Android Emulator</value>
     </recentWindows>
   </component>
+  <component name="WindowStateProjectService">
+    <state x="461" y="199" key="SettingsEditor" timestamp="1677819601274">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="199" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1677819601274" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/calculator/MainActivity.java">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="270">
+            <caret line="10" column="50" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="-525">
           <folding>
@@ -161,18 +153,6 @@
             <element signature="e#3917#3962#0" expanded="true" />
             <element signature="e#4002#4049#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-source-code">
-        <state>
-          <editor-state relative-caret-position="-54">
-            <caret line="10" column="50" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
-          </editor-state>
-          <multi-preview-state selected="">
-            <representations>
-              <list />
-            </representations>
-          </multi-preview-state>
         </state>
       </provider>
     </entry>

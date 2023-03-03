@@ -24,7 +24,7 @@ DialogWidth=720
 ToolBoxButtonState=topcenter
 ToolBoxButtonX=558
 ToolBoxButtonY=20
-positions={"1920x1080":["2"\\,"17"\\,"desktop:/com.blackmagicdesign.resolve.desktop"\\,"1"\\,"0"\\,"desktop:/Graphite-grub2-theme.tar.xz"\\,"0"\\,"2"\\,"desktop:/akshay loan info  nesl.pdf"\\,"0"\\,"1"\\,"desktop:/steam.desktop"\\,"0"\\,"0"\\,"desktop:/DT-TREE.txt"\\,"0"\\,"3"]}
+positions={"1920x1080":["1"\\,"17"\\,"desktop:/com.blackmagicdesign.resolve.desktop"\\,"0"\\,"1"\\,"desktop:/akshay loan info  nesl.pdf"\\,"0"\\,"0"\\,"desktop:/channels4_profile.jpg"\\,"0"\\,"3"\\,"desktop:/steam.desktop"\\,"0"\\,"2"]}
 sortMode=-1
 
 [Containments][1][Wallpaper][org.kde.image][General]
@@ -45,7 +45,7 @@ immutability=1
 plugin=org.kde.plasma.digitalclock
 
 [Containments][2][Applets][18][Configuration]
-PreloadWeight=75
+PreloadWeight=80
 popupHeight=450
 popupWidth=396
 
@@ -111,19 +111,6 @@ global=Alt+F1
 [Containments][2][Applets][3][Shortcuts]
 global=Alt+F1
 
-[Containments][2][Applets][31]
-immutability=1
-plugin=org.kde.windowbuttons
-
-[Containments][2][Applets][31][Configuration][ConfigDialog]
-DialogHeight=540
-DialogWidth=720
-
-[Containments][2][Applets][31][Configuration][General]
-buttons=3|4|5|10|2|9
-containmentType=Plasma
-visibility=ActiveMaximizedWindow
-
 [Containments][2][Applets][6]
 immutability=1
 plugin=org.kde.plasma.marginsseparator
@@ -141,7 +128,7 @@ DialogHeight=84
 DialogWidth=1920
 
 [Containments][2][General]
-AppletOrder=3;28;26;23;22;6;7;18;19;31
+AppletOrder=3;28;26;23;22;6;7;18;19
 
 [Containments][8]
 activityId=
@@ -167,29 +154,38 @@ immutability=1
 plugin=org.kde.plasma.clipboard
 
 [Containments][8][Applets][12][Configuration]
-PreloadWeight=55
+PreloadWeight=60
 
 [Containments][8][Applets][13]
 immutability=1
 plugin=org.kde.plasma.volume
 
 [Containments][8][Applets][13][Configuration]
-PreloadWeight=90
+PreloadWeight=100
+
+[Containments][8][Applets][13][Configuration][General]
+migrated=true
 
 [Containments][8][Applets][14]
 immutability=1
 plugin=org.kde.plasma.devicenotifier
 
 [Containments][8][Applets][14][Configuration]
-PreloadWeight=60
+PreloadWeight=85
 
 [Containments][8][Applets][15]
 immutability=1
 plugin=org.kde.plasma.nightcolorcontrol
 
+[Containments][8][Applets][15][Configuration]
+PreloadWeight=34
+
 [Containments][8][Applets][16]
 immutability=1
 plugin=org.kde.plasma.notifications
+
+[Containments][8][Applets][16][Configuration]
+PreloadWeight=55
 
 [Containments][8][Applets][17]
 immutability=1
@@ -204,14 +200,14 @@ immutability=1
 plugin=org.kde.plasma.networkmanagement
 
 [Containments][8][Applets][21][Configuration]
-PreloadWeight=75
+PreloadWeight=69
 
 [Containments][8][Applets][22]
 immutability=1
 plugin=org.kde.plasma.mediacontroller
 
 [Containments][8][Applets][22][Configuration]
-PreloadWeight=36
+PreloadWeight=0
 
 [Containments][8][Applets][24]
 immutability=1
@@ -231,4 +227,4 @@ knownItems=org.kde.plasma.vault,org.kde.plasma.manage-inputmethod,org.kde.plasma
 
 [ScreenMapping]
 itemsOnDisabledScreens=
-screenMapping=desktop:/akshay loan info  nesl.pdf,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/DT-TREE.txt,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/Graphite-grub2-theme.tar.xz,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/steam.desktop,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/com.blackmagicdesign.resolve.desktop,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398
+screenMapping=desktop:/akshay loan info  nesl.pdf,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/com.blackmagicdesign.resolve.desktop,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/channels4_profile.jpg,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/steam.desktop,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398

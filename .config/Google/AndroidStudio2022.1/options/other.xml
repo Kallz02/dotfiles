@@ -105,6 +105,7 @@
     "AndroidInitConfigurator.V3": "true",
     "AndroidInitConfigurator.V5": "true",
     "FLUTTER_LAST_SURVEY_CONTENT_CHECK_KEY": "1676527094776",
+    "MarketplacePluginsSearchHistory": "gitlive\ngitliv\ng\nduckl\nduckly",
     "RunOnceActivity.cidr.test.framework.showIndexingAsTask": "true",
     "RunOnceActivity.se.text.search": "true",
     "SAVED_ANDROID_NPW_ASKED_LANGUAGE": "true",
@@ -115,16 +116,17 @@
     "SPLIT_EDITOR_MODE_/home/akshayk/AndroidStudioProjects/Switch/app/src/main/res/layout/activity_new.xml": "DEACTIVATED",
     "SettingsSearchHistory": "settings",
     "Source Code Editor With PreviewLayout": "Editor only",
-    "appcds.runOnSecondStart": "AI-221.6008.13.2211.9514443-f495a41a59ad796e1d860790bd125b7828d1d44bcd8105607507167d85e179f3",
+    "appcds.runOnSecondStart": "AI-221.6008.13.2211.9619390-f1570d33232af2aabcdd236541ac3651be153c1409fa63b43af0f39831fd4087",
+    "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
     "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
-    "bundled.plugins.list.saved.version": "AI-221.6008.13.2211.9514443",
+    "bundled.plugins.list.saved.version": "AI-221.6008.13.2211.9619390",
     "com.intellij.ide.projectWizard.generators.JavaNewProjectWizard$Step.selectedStep": "IntelliJ",
     "com.intellij.ide.wizard.NewProjectWizardLanguageStep.selectedStep": "Java",
     "defaultJdkConfigured": "true",
-    "file.gist.reindex.count": "101",
+    "file.gist.reindex.count": "103",
     "fileTypeChangedCounter": "1",
     "gotit.previous.run": "AI-221.6008.13.2211.9514443",
-    "ideavim.statistics.timestamp": "1676527087283",
+    "ideavim.statistics.timestamp": "1677819418254",
     "ignore.vm.options.env.vars": "true",
     "input.method.disabler.muted": "true",
     "installed.kotlin.plugin.version": "221-1.8.0-release-for-android-studio-AS5591.52",
@@ -135,7 +137,7 @@
     "jdk.selected.JAVA_MODULE": "11",
     "last_opened_file_path": "/opt/flutter",
     "project.wizard.group": "JAVA_MODULE_io.flutter.module.FlutterModuleBuilder",
-    "registry.to.advanced.settings.migration.build": "AI-221.6008.13.2211.9514443",
+    "registry.to.advanced.settings.migration.build": "AI-221.6008.13.2211.9619390",
     "tasks.pass.word.conversion.enforced": "true"
   },
   "keyToStringList": {
@@ -143,6 +145,7 @@
       "/opt/flutter"
     ],
     "file.chooser.recent.files": [
+      "/home/akshayk/AndroidStudioProjects/Calculator",
       "/opt/flutter",
       "/home/akshayk/Downloads/CarBookingAndroid-main"
     ],
