@@ -19,7 +19,6 @@ source /usr/share/nvm/init-nvm.sh
 source ~/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 # Enable autosuggestions.
 source ~/zsh-autosuggestions/zsh-autosuggestions.zsh
-
 # End of lines added by compinstall
 # K8s auto-complete
 # autoload -U +X compinit && compinit

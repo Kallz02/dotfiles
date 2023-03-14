@@ -24,7 +24,7 @@ DialogWidth=720
 ToolBoxButtonState=topcenter
 ToolBoxButtonX=558
 ToolBoxButtonY=20
-positions={"1920x1080":["1"\\,"17"\\,"desktop:/com.blackmagicdesign.resolve.desktop"\\,"0"\\,"1"\\,"desktop:/akshay loan info  nesl.pdf"\\,"0"\\,"0"\\,"desktop:/channels4_profile.jpg"\\,"0"\\,"3"\\,"desktop:/steam.desktop"\\,"0"\\,"2"]}
+positions={"1920x1080":["1"\\,"17"\\,"desktop:/sun.svg"\\,"0"\\,"8"\\,"desktop:/Responsively-Screenshots"\\,"0"\\,"9"\\,"desktop:/steam.desktop"\\,"0"\\,"2"\\,"desktop:/channels4_profile.jpg"\\,"0"\\,"3"\\,"desktop:/akshay loan info  nesl.pdf"\\,"0"\\,"0"\\,"desktop:/com.blackmagicdesign.resolve.desktop"\\,"0"\\,"1"\\,"desktop:/Akshay's Resume (1).docx"\\,"0"\\,"6"\\,"desktop:/vsliveshare-1.0.5832_vsixhub.com.vsix"\\,"0"\\,"7"\\,"desktop:/fddf.pdf"\\,"0"\\,"4"\\,"desktop:/bookmarks_3_4_23.html"\\,"0"\\,"5"]}
 sortMode=-1
 
 [Containments][1][Wallpaper][org.kde.image][General]
@@ -171,7 +171,7 @@ immutability=1
 plugin=org.kde.plasma.devicenotifier
 
 [Containments][8][Applets][14][Configuration]
-PreloadWeight=85
+PreloadWeight=100
 
 [Containments][8][Applets][15]
 immutability=1
@@ -227,4 +227,4 @@ knownItems=org.kde.plasma.vault,org.kde.plasma.manage-inputmethod,org.kde.plasma
 
 [ScreenMapping]
 itemsOnDisabledScreens=
-screenMapping=desktop:/akshay loan info  nesl.pdf,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/com.blackmagicdesign.resolve.desktop,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/channels4_profile.jpg,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/steam.desktop,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398
+screenMapping=desktop:/channels4_profile.jpg,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/bookmarks_3_4_23.html,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/Responsively-Screenshots,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/akshay loan info  nesl.pdf,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/vsliveshare-1.0.5832_vsixhub.com.vsix,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/sun.svg,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/steam.desktop,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/fddf.pdf,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/Akshay's Resume (1).docx,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/com.blackmagicdesign.resolve.desktop,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398

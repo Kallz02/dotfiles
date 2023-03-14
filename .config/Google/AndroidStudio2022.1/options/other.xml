@@ -2,6 +2,11 @@
   <component name="DynamicPluginEnabler">
     <trackers>
       <map>
+        <entry key="2JYH2147bzX8GZ9G0fgo6C7HjrE">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
         <entry key="2JapvaWKyA6Q9CMhW2bSxqRzLqb">
           <value>
             <ProjectPluginTracker />
@@ -28,6 +33,11 @@
           </value>
         </entry>
         <entry key="2LoAVBUREoKD0tIkeQWIyq6NRtB">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2Mac21gAPat614CaHeE44ATy1ab">
           <value>
             <ProjectPluginTracker />
           </value>
@@ -116,17 +126,17 @@
     "SPLIT_EDITOR_MODE_/home/akshayk/AndroidStudioProjects/Switch/app/src/main/res/layout/activity_new.xml": "DEACTIVATED",
     "SettingsSearchHistory": "settings",
     "Source Code Editor With PreviewLayout": "Editor only",
-    "appcds.runOnSecondStart": "AI-221.6008.13.2211.9619390-f1570d33232af2aabcdd236541ac3651be153c1409fa63b43af0f39831fd4087",
+    "appcds.runOnSecondStart": "AI-221.6008.13.2211.9619390-16669836eb8f9bde8da3d60f56d9cacf5b80bb3f6952489ef6ca4cc9e047f2f1",
     "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
     "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
     "bundled.plugins.list.saved.version": "AI-221.6008.13.2211.9619390",
     "com.intellij.ide.projectWizard.generators.JavaNewProjectWizard$Step.selectedStep": "IntelliJ",
     "com.intellij.ide.wizard.NewProjectWizardLanguageStep.selectedStep": "Java",
     "defaultJdkConfigured": "true",
-    "file.gist.reindex.count": "103",
-    "fileTypeChangedCounter": "1",
-    "gotit.previous.run": "AI-221.6008.13.2211.9514443",
-    "ideavim.statistics.timestamp": "1677819418254",
+    "file.gist.reindex.count": "142",
+    "fileTypeChangedCounter": "3",
+    "gotit.previous.run": "AI-221.6008.13.2211.9619390",
+    "ideavim.statistics.timestamp": "1678729568134",
     "ignore.vm.options.env.vars": "true",
     "input.method.disabler.muted": "true",
     "installed.kotlin.plugin.version": "221-1.8.0-release-for-android-studio-AS5591.52",
@@ -145,6 +155,8 @@
       "/opt/flutter"
     ],
     "file.chooser.recent.files": [
+      "/home/akshayk/zotron",
+      "/home/akshayk/AndroidStudioProjects/Switch",
       "/home/akshayk/AndroidStudioProjects/Calculator",
       "/opt/flutter",
       "/home/akshayk/Downloads/CarBookingAndroid-main"

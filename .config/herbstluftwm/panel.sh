@@ -24,7 +24,7 @@ x=${geometry[0]}
 y=${geometry[1]}
 #panel_width=$((${geometry[2]}-55))
 panel_width=${geometry[2]}
-panel_height=20
+panel_height=16
 font="-*-fixed-medium-*-*-*-13-*-*-*-*-*-*-*"
 font2="-misc-fontawesome-medium-r-normal--0-0-0-12-p-0-iso10646-1"
 # extract colors from hlwm and omit alpha-value

@@ -28,7 +28,8 @@ hc keybind $Mod-Shift-q quit
 hc keybind $Mod-Shift-r reload
 hc keybind $Mod-Shift-c close
 hc keybind $Mod-Return spawn alacritty  # use your $TERMINAL with xterm as fallback
-hc keybind $Mod-d spawn dmenu_run -c -bw 2 -l 20 -nhb whitesmoke
+# hc keybind $Mod-d spawn dmenu_run -c -bw 2 -l 20 -nhb whitesmoke
+hc keybind $Mod-d spawn dmenu_run
 
 # basic movement in tiling and floating mode
 # focusing clients
@@ -155,7 +156,7 @@ hc attr theme.active.tab_title_color '#ababab'
 hc attr theme.normal.title_color '#898989'
 hc attr theme.inner_width 0
 hc attr theme.inner_color black
-hc attr theme.border_width 3
+hc attr theme.border_width 2
 hc attr theme.floating.border_width 4
 hc attr theme.floating.outer_width 1
 hc attr theme.floating.outer_color black
@@ -177,7 +178,7 @@ s fallback
 hc keybind $Mod-Left  focus left
 hc attr theme.background_color '#141414'
 
-hc set window_gap 4
+hc set window_gap 3
 hc set frame_padding 0
 hc set smart_window_surroundings 0
 hc set smart_frame_surroundings 1

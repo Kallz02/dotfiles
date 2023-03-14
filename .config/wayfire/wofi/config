@@ -5,7 +5,7 @@ show=drun
 prompt=Apps
 normal_window=true
 layer=top
-term=foot
+term=kitty
 
 ## Geometry
 width=500px

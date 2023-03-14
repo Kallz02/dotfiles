@@ -1,22 +1,34 @@
 <application>
   <component name="ActionsLocalSummary">
+    <e n="$Copy">
+      <i c="1" l="1678118875987" />
+    </e>
+    <e n="$Delete">
+      <i c="3" l="1678119628036" />
+    </e>
     <e n="Android.DeviceManager">
-      <i c="3" l="1673680566895" />
+      <i c="4" l="1678119870515" />
+    </e>
+    <e n="Android.SyncProject">
+      <i c="2" l="1678119418595" />
     </e>
     <e n="AutoIndentLines">
       <i c="4" l="1676184415688" />
     </e>
+    <e n="Debug">
+      <i c="1" l="1678118860111" />
+    </e>
     <e n="EditorBackSpace">
-      <i c="277" l="1677819577242" />
+      <i c="407" l="1678729362795" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="28" l="1676187752419" />
+      <i c="30" l="1678729307286" />
     </e>
     <e n="EditorDown">
       <i c="31" l="1676187703680" />
     </e>
     <e n="EditorEnter">
-      <i c="24" l="1676187733560" />
+      <i c="34" l="1678729343116" />
     </e>
     <e n="EditorRight">
       <i c="1" l="1676184036322" />
@@ -30,17 +42,29 @@
     <e n="ExportSettings">
       <i c="1" l="1676433313616" />
     </e>
+    <e n="HideAllWindows">
+      <i c="2" l="1678729650361" />
+    </e>
+    <e n="NewClass">
+      <i c="1" l="1678009048047" />
+    </e>
     <e n="NewProject">
-      <i c="2" l="1676183269737" />
+      <i c="3" l="1678008892811" />
     </e>
     <e n="OpenFile">
-      <i c="3" l="1676720678737" />
+      <i c="5" l="1678729796391" />
+    </e>
+    <e n="PasteMultiple">
+      <i c="2" l="1678009856144" />
     </e>
     <e n="Run">
-      <i c="9" l="1676726011820" />
+      <i c="12" l="1678119975447" />
     </e>
     <e n="SettingsEntryPoint">
-      <i c="1" l="1673623020033" />
+      <i c="2" l="1678729630763" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="2" l="1678729588333" />
     </e>
     <e n="ShowSettings">
       <i c="6" l="1677819506314" />
@@ -51,11 +75,32 @@
     <e n="WelcomeScreen.OpenProject">
       <i c="1" l="1673285036345" />
     </e>
+    <e n="android.deploy.ApplyChanges">
+      <i c="1" l="1678119941684" />
+    </e>
     <e n="com.android.tools.adtui.workbench.AttachedToolWindow$HideAction">
-      <i c="4" l="1676183570068" />
+      <i c="8" l="1678119381833" />
     </e>
     <e n="com.android.tools.adtui.workbench.AttachedToolWindow$SearchAction">
       <i c="1" l="1676183453916" />
+    </e>
+    <e n="com.android.tools.idea.configurations.DeviceMenuAction$SetDeviceAction">
+      <i c="12" l="1678119687372" />
+    </e>
+    <e n="com.android.tools.idea.configurations.DeviceMenuAction2">
+      <i c="8" l="1678119682589" />
+    </e>
+    <e n="com.android.tools.idea.configurations.OrientationMenuAction">
+      <i c="2" l="1678119389182" />
+    </e>
+    <e n="com.android.tools.idea.configurations.OrientationMenuAction$SetDeviceStateAction">
+      <i c="2" l="1678119389912" />
+    </e>
+    <e n="com.android.tools.idea.configurations.OrientationMenuAction$SetUiModeAction">
+      <i c="2" l="1678119172095" />
+    </e>
+    <e n="com.intellij.codeInsight.daemon.NavigateAction">
+      <i c="1" l="1678118777874" />
     </e>
     <e n="com.intellij.diagnostic.IdeMessagePanel$4">
       <i c="1" l="1673285050405" />
@@ -67,13 +112,19 @@
       <i c="5" l="1677819158796" />
     </e>
     <e n="com.intellij.openapi.actionSystem.EmptyAction$MyDelegatingAction">
-      <i c="685" l="1676187754429" />
+      <i c="819" l="1678729399185" />
+    </e>
+    <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$StatusAction">
+      <i c="4" l="1678120012290" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="1" l="1676528352082" />
+      <i c="9" l="1678118721480" />
     </e>
     <e n="com.intellij.openapi.ui.DialogWrapper$4">
       <i c="4" l="1676433423641" />
+    </e>
+    <e n="com.intellij.openapi.updateSettings.impl.UpdateSettingsEntryPointActionProvider$3">
+      <i c="1" l="1678729633034" />
     </e>
     <e n="com.intellij.openapi.updateSettings.impl.UpdateSettingsEntryPointActionProvider$IdeUpdateAction">
       <i c="1" l="1673623026063" />
@@ -85,7 +136,7 @@
       <i c="1" l="1676184598919" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
-      <i c="7" l="1677819434618" />
+      <i c="15" l="1678729626410" />
     </e>
     <e n="com.intellij.ui.CommonActionsPanel$AddButton">
       <i c="1" l="1676433279497" />
@@ -104,6 +155,9 @@
     </e>
     <e n="io.flutter.actions.OpenEmulatorAction">
       <i c="1" l="1676528361815" />
+    </e>
+    <e n="org.jetbrains.android.AndroidAnnotatorUtil$ColorRenderer$1">
+      <i c="1" l="1678119528855" />
     </e>
     <e n="template.create.ActivityEmpty Activity">
       <i c="1" l="1676183658473" />

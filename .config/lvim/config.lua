@@ -72,8 +72,11 @@ lvim.builtin.alpha.mode = "dashboard"
 lvim.builtin.terminal.active = true
 lvim.builtin.nvimtree.setup.view.side = "left"
 lvim.builtin.nvimtree.setup.renderer.icons.show.git = false
-
 require("lvim.lsp.manager").setup("angularls")
+require("lvim.lsp.manager").setup("emmet_ls")
+
+-- require('emmet_ls').setup(filetypes = {'html', 'typescript'})
+
 -- if you don't want all the parsers change this to a table of the ones you want
 lvim.builtin.treesitter.ensure_installed = {
   "bash",

@@ -12,8 +12,8 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/calculator/MainActivity.java">
           <provider selected="true" editor-type-id="android-source-code">
             <state>
-              <editor-state relative-caret-position="270">
-                <caret line="10" column="50" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
+              <editor-state relative-caret-position="513">
+                <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
               </editor-state>
               <multi-preview-state selected="">
                 <representations>
@@ -28,7 +28,7 @@
   </component>
   <component name="FileTypeUsageLocalSummary">
     <fileType name="JAVA">
-      <summary usageCount="10" lastUsed="1677819133318" />
+      <summary usageCount="12" lastUsed="1678008880226" />
     </fileType>
   </component>
   <component name="IgnoredFileRootStore">
@@ -101,21 +101,10 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/calculator/MainActivity.java">
-      <provider selected="true" editor-type-id="android-source-code">
-        <state>
-          <editor-state relative-caret-position="270">
-            <caret line="10" column="50" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
-          </editor-state>
-          <multi-preview-state selected="">
-            <representations>
-              <list />
-            </representations>
-          </multi-preview-state>
-        </state>
-      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="-525">
           <folding>
+            <element signature="imports" expanded="true" />
             <element signature="e#1876#1877#0" expanded="true" />
             <element signature="e#1912#1913#0" expanded="true" />
             <element signature="e#2393#2394#0" expanded="true" />
@@ -153,6 +142,18 @@
             <element signature="e#3917#3962#0" expanded="true" />
             <element signature="e#4002#4049#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-source-code">
+        <state>
+          <editor-state relative-caret-position="513">
+            <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+          </editor-state>
+          <multi-preview-state selected="">
+            <representations>
+              <list />
+            </representations>
+          </multi-preview-state>
         </state>
       </provider>
     </entry>

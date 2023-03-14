@@ -53,19 +53,6 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/AndroidStudioProjects/Switch">
-          <value>
-            <RecentProjectMetaInfo frameTitle="Switch – newActivity.java [Switch.app.main]" projectWorkspaceId="2LcvfQnWuscsvkMSfMj3bJeT1cu">
-              <option name="activationTimestamp" value="1676527086902" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="AI-221.6008.13.2211.9514443" />
-              <option name="buildTimestamp" value="1674264925062" />
-              <frame x="3" y="21" width="1914" height="1056" />
-              <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1676183290432" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/AndroidStudioProjects/untitled">
           <value>
             <RecentProjectMetaInfo frameTitle="untitled – main.dart [untitled]" projectWorkspaceId="2LoAVBUREoKD0tIkeQWIyq6NRtB">
@@ -81,14 +68,51 @@
         </entry>
         <entry key="$USER_HOME$/AndroidStudioProjects/Calculator">
           <value>
-            <RecentProjectMetaInfo frameTitle="Calculator – MainActivity.java [Calculator.app.main]" opened="true" projectWorkspaceId="2JdzzIYgPo8wGDOygC8irMConIj">
-              <option name="activationTimestamp" value="1677820147355" />
+            <RecentProjectMetaInfo frameTitle="Calculator – MainActivity.java [Calculator.app.main]" projectWorkspaceId="2JdzzIYgPo8wGDOygC8irMConIj">
+              <option name="activationTimestamp" value="1678008922838" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="AI-221.6008.13.2211.9514443" />
               <option name="buildTimestamp" value="1674264927739" />
-              <frame x="3" y="21" width="953" height="1056" />
+              <frame x="3" y="21" width="1914" height="1056" />
               <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1676720687447" />
+              <option name="projectOpenTimestamp" value="1678008922810" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/Autowala">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Autowala – Login.java [Autowala.app.main]" projectWorkspaceId="2Mac21gAPat614CaHeE44ATy1ab">
+              <option name="activationTimestamp" value="1678729567801" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-221.6008.13.2211.9619390" />
+              <option name="buildTimestamp" value="1676595095595" />
+              <frame x="3" y="21" width="1914" height="1056" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1678008939417" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/Switch">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Switch – MainActivity.java [Switch.app.main]" projectWorkspaceId="2LcvfQnWuscsvkMSfMj3bJeT1cu">
+              <option name="activationTimestamp" value="1678729806521" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-221.6008.13.2211.9619390" />
+              <option name="buildTimestamp" value="1676595076845" />
+              <frame x="3" y="21" width="1914" height="1056" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1678729568102" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/zotron">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2JYH2147bzX8GZ9G0fgo6C7HjrE">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-221.6008.13.2211.9619390" />
+              <option name="buildTimestamp" value="1676595076845" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1678729806897" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

@@ -5,9 +5,9 @@
     <name unique="leftSlidingSide"  />
   <kind type="sliding" />
   <slidingSide side="left" />
-  <slide-in-size tc-id="projectTabLogical_tc" size="126" />
+  <slide-in-size tc-id="projectTabLogical_tc" size="314" />
   <state type="joined"  />
-  <bounds x="26" y="3" width="126" height="944" />
+  <bounds x="26" y="3" width="314" height="944" />
   <frame state="0"/>
     <empty-behavior permanent="true"/>
 </mode>

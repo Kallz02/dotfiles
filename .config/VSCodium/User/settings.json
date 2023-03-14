@@ -1,6 +1,6 @@
 {
-    "workbench.colorTheme": "Ayu Dark",
-    "editor.fontSize": 16,
+    "workbench.colorTheme": "After Dark No Italics",
+    "editor.fontSize": 18,
     "editor.fontFamily": "JetBrainsMono Nerd Font",
     "editor.fontLigatures": false,
     "window.titleBarStyle": "custom",
@@ -584,5 +584,8 @@
   ],
   "cmake.configureSettings": {
 
-  }
+  },
+  "editor.fontVariations": false,
+  "emulator.emulatorPath": "~/Android/Sdk/emulator",
+  "emulator.androidColdBoot": true
 }

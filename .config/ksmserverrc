@@ -5,13 +5,13 @@ update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_valu
 count=0
 
 [Session: saved at previous logout]
-clientId1=10103123cae6000167776382600006281190005
-clientId2=10103123cae6000167776463800006281190010
+clientId1=10103123cae6000167877543100000245880004
+clientId2=10103123cae6000167861694500000111160009
 count=2
 program1=/usr/lib/DiscoverNotifier
-program2=/usr/bin/flameshot
-restartCommand1=/usr/lib/DiscoverNotifier,-session,10103123cae6000167776382600006281190005_1677775832_995733
-restartCommand2=/usr/bin/flameshot,-session,10103123cae6000167776463800006281190010_1677775832_995740
+program2=waterfox
+restartCommand1=/usr/lib/DiscoverNotifier,-session,10103123cae6000167877543100000245880004_1678775576_433327
+restartCommand2=/opt/waterfox-g/waterfox,--sm-client-id,10103123cae6000167861694500000111160009
 restartStyleHint1=0
 restartStyleHint2=0
 userId1=akshayk
