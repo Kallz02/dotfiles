@@ -1,14 +1,12 @@
 {
-    "workbench.colorTheme": "After Dark No Italics",
-    "editor.fontSize": 18,
-    "editor.fontFamily": "JetBrainsMono Nerd Font",
-    "editor.fontLigatures": false,
-    "window.titleBarStyle": "custom",
-    "editor.lineNumbers": "relative",
-    "vscode-neovim.neovimExecutablePaths.darwin": "/usr/local/bin/nvim",
+  "editor.fontSize": 16,
+  "editor.fontFamily": "JetBrainsMono Nerd Font",
+  "editor.fontLigatures": false,
+  "window.titleBarStyle": "custom",
+  "editor.lineNumbers": "relative",
+  "vscode-neovim.neovimExecutablePaths.darwin": "/usr/local/bin/nvim",
   "vscode-neovim.neovimExecutablePaths.linux": "/usr/bin/nvim",
-  "vscode-neovim.neovimInitVimPaths.darwin": "$HOME/.config/nvim/init1.vim",
-  "vscode-neovim.neovimInitVimPaths.linux": "$HOME/.config/nvim/init1.vim",
+  "vscode-neovim.neovimInitVimPaths.darwin": "$HOME/.config/VSCodium/User/init1.vim",
   "whichkey.sortOrder": "alphabetically",
   "whichkey.bindings": [
     {
@@ -582,10 +580,14 @@
       "command": "workbench.action.toggleZenMode"
     }
   ],
-  "cmake.configureSettings": {
-
-  },
+  "cmake.configureSettings": {},
   "editor.fontVariations": false,
   "emulator.emulatorPath": "~/Android/Sdk/emulator",
-  "emulator.androidColdBoot": true
+  "emulator.androidColdBoot": true,
+  "workbench.colorTheme": "After Dark",
+  "C_Cpp.intelliSenseEngine": "disabled",
+  "vscode-neovim.neovimInitVimPaths.linux": "$HOME/.config/VSCodium/User/init1.vim",
+  "editor.formatOnSave": true,
+  "editor.minimap.enabled": false,
+  "git.autofetch": true
 }

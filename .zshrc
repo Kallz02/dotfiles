@@ -29,3 +29,5 @@ source ~/zsh-autosuggestions/zsh-autosuggestions.zsh
 
 # Load Angular CLI autocompletion.
 # source <(ng completion script)
+
+export PATH="/home/akshayk/.detaspace/bin:$PATH"

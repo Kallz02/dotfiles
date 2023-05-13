@@ -1,88 +1,127 @@
 <application>
   <component name="ActionsLocalSummary">
     <e n="$Copy">
-      <i c="1" l="1678118875987" />
+      <i c="21" l="1680432299202" />
     </e>
     <e n="$Delete">
-      <i c="3" l="1678119628036" />
+      <i c="11" l="1680426866824" />
+    </e>
+    <e n="$Paste">
+      <i c="1" l="1680432302128" />
+    </e>
+    <e n="$Undo">
+      <i c="71" l="1680432095891" />
+    </e>
+    <e n="Android.CreateResourceDirectory">
+      <i c="1" l="1680262898832" />
     </e>
     <e n="Android.DeviceManager">
-      <i c="4" l="1678119870515" />
+      <i c="6" l="1680430996236" />
+    </e>
+    <e n="Android.GenerateSignedApk">
+      <i c="1" l="1680432575718" />
     </e>
     <e n="Android.SyncProject">
-      <i c="2" l="1678119418595" />
+      <i c="3" l="1678793681776" />
     </e>
     <e n="AutoIndentLines">
-      <i c="4" l="1676184415688" />
+      <i c="30" l="1680430694655" />
+    </e>
+    <e n="CommentByLineComment">
+      <i c="16" l="1680364588219" />
+    </e>
+    <e n="CopyPaths">
+      <i c="1" l="1678871954695" />
     </e>
     <e n="Debug">
-      <i c="1" l="1678118860111" />
+      <i c="4" l="1678897428139" />
     </e>
     <e n="EditorBackSpace">
-      <i c="407" l="1678729362795" />
+      <i c="2415" l="1680432496883" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="30" l="1678729307286" />
+      <i c="175" l="1680432498503" />
     </e>
     <e n="EditorDown">
-      <i c="31" l="1676187703680" />
+      <i c="731" l="1680432346220" />
     </e>
     <e n="EditorEnter">
-      <i c="34" l="1678729343116" />
+      <i c="151" l="1680430819465" />
+    </e>
+    <e n="EditorLeft">
+      <i c="6" l="1678893497535" />
     </e>
     <e n="EditorRight">
-      <i c="1" l="1676184036322" />
+      <i c="7" l="1680430549866" />
     </e>
     <e n="EditorTab">
-      <i c="4" l="1676184020801" />
+      <i c="27" l="1680430644258" />
     </e>
     <e n="EditorUp">
-      <i c="6" l="1676183885742" />
+      <i c="225" l="1680430679333" />
     </e>
     <e n="ExportSettings">
       <i c="1" l="1676433313616" />
     </e>
+    <e n="Git.Init">
+      <i c="1" l="1680589915204" />
+    </e>
     <e n="HideAllWindows">
-      <i c="2" l="1678729650361" />
+      <i c="5" l="1680362413414" />
+    </e>
+    <e n="NewAndroidVectorAsset">
+      <i c="2" l="1680428449951" />
     </e>
     <e n="NewClass">
       <i c="1" l="1678009048047" />
     </e>
     <e n="NewProject">
-      <i c="3" l="1678008892811" />
+      <i c="6" l="1680152170426" />
     </e>
     <e n="OpenFile">
-      <i c="5" l="1678729796391" />
+      <i c="8" l="1680363636619" />
     </e>
     <e n="PasteMultiple">
-      <i c="2" l="1678009856144" />
+      <i c="32" l="1680430821116" />
+    </e>
+    <e n="ProblemsView.CopyProblemDescription">
+      <i c="2" l="1678794179670" />
+    </e>
+    <e n="ProblemsView.QuickFixes">
+      <i c="31" l="1680428996614" />
+    </e>
+    <e n="Rerun">
+      <i c="1" l="1678897422121" />
     </e>
     <e n="Run">
-      <i c="12" l="1678119975447" />
+      <i c="81" l="1680533277213" />
     </e>
     <e n="SettingsEntryPoint">
-      <i c="2" l="1678729630763" />
+      <i c="6" l="1678894292303" />
     </e>
     <e n="ShowIntentionActions">
-      <i c="2" l="1678729588333" />
+      <i c="13" l="1680429667829" />
     </e>
     <e n="ShowSettings">
-      <i c="6" l="1677819506314" />
+      <i c="8" l="1678894294398" />
     </e>
     <e n="Stop">
-      <i c="2" l="1676528683495" />
+      <i c="18" l="1680429926197" />
+    </e>
+    <e n="Vcs.Push">
+      <i c="2" l="1680590073999" />
     </e>
     <e n="WelcomeScreen.OpenProject">
       <i c="1" l="1673285036345" />
     </e>
     <e n="android.deploy.ApplyChanges">
-      <i c="1" l="1678119941684" />
+      <i c="23" l="1680432507605" />
     </e>
     <e n="com.android.tools.adtui.workbench.AttachedToolWindow$HideAction">
-      <i c="8" l="1678119381833" />
+      <i c="13" l="1680428302186" />
     </e>
     <e n="com.android.tools.adtui.workbench.AttachedToolWindow$SearchAction">
-      <i c="1" l="1676183453916" />
+      <i c="14" l="1680430361793" />
     </e>
     <e n="com.android.tools.idea.configurations.DeviceMenuAction$SetDeviceAction">
       <i c="12" l="1678119687372" />
@@ -99,8 +138,14 @@
     <e n="com.android.tools.idea.configurations.OrientationMenuAction$SetUiModeAction">
       <i c="2" l="1678119172095" />
     </e>
+    <e n="com.android.tools.idea.run.deployment.SelectDeviceAction">
+      <i c="3" l="1680431795330" />
+    </e>
     <e n="com.intellij.codeInsight.daemon.NavigateAction">
-      <i c="1" l="1678118777874" />
+      <i c="6" l="1680363808116" />
+    </e>
+    <e n="com.intellij.codeInsight.daemon.impl.DaemonTooltipWithActionRenderer$addActionsRow$2">
+      <i c="3" l="1680429655084" />
     </e>
     <e n="com.intellij.diagnostic.IdeMessagePanel$4">
       <i c="1" l="1673285050405" />
@@ -108,20 +153,23 @@
     <e n="com.intellij.execution.actions.RunConfigurationsComboBoxAction$SelectConfigAction">
       <i c="1" l="1676527175386" />
     </e>
+    <e n="com.intellij.ide.actions.CopyAction">
+      <i c="6" l="1678897162000" />
+    </e>
     <e n="com.intellij.notification.NotificationAction$Simple">
-      <i c="5" l="1677819158796" />
+      <i c="7" l="1680051052300" />
     </e>
     <e n="com.intellij.openapi.actionSystem.EmptyAction$MyDelegatingAction">
-      <i c="819" l="1678729399185" />
+      <i c="6201" l="1680432500694" />
     </e>
     <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$StatusAction">
-      <i c="4" l="1678120012290" />
+      <i c="9" l="1680359320207" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="9" l="1678118721480" />
+      <i c="25" l="1680432336532" />
     </e>
     <e n="com.intellij.openapi.ui.DialogWrapper$4">
-      <i c="4" l="1676433423641" />
+      <i c="11" l="1680432926410" />
     </e>
     <e n="com.intellij.openapi.updateSettings.impl.UpdateSettingsEntryPointActionProvider$3">
       <i c="1" l="1678729633034" />
@@ -133,16 +181,22 @@
       <i c="6" l="1673680682835" />
     </e>
     <e n="com.intellij.refactoring.actions.RenameElementAction">
-      <i c="1" l="1676184598919" />
+      <i c="6" l="1680365433736" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
-      <i c="15" l="1678729626410" />
+      <i c="52" l="1680533297069" />
     </e>
     <e n="com.intellij.ui.CommonActionsPanel$AddButton">
       <i c="1" l="1676433279497" />
     </e>
     <e n="com.intellij.ui.dsl.builder.impl.SegmentedButtonAction">
       <i c="2" l="1676526669361" />
+    </e>
+    <e n="com.maddyhome.idea.vim.ui.ex.ExShortcutKeyAction">
+      <i c="1" l="1678880833564" />
+    </e>
+    <e n="floobits.actions.FloobitsWindow">
+      <i c="1" l="1680589887211" />
     </e>
     <e n="flutter.NewProject">
       <i c="2" l="1676527056329" />
@@ -159,8 +213,14 @@
     <e n="org.jetbrains.android.AndroidAnnotatorUtil$ColorRenderer$1">
       <i c="1" l="1678119528855" />
     </e>
+    <e n="org.jetbrains.android.actions.CreateResourceFileActionGroup$3">
+      <i c="2" l="1680430304642" />
+    </e>
+    <e n="org.jetbrains.plugins.terminal.TerminalNewPredefinedSessionAction">
+      <i c="1" l="1678879279886" />
+    </e>
     <e n="template.create.ActivityEmpty Activity">
-      <i c="1" l="1676183658473" />
+      <i c="3" l="1678891977498" />
     </e>
   </component>
 </application>

@@ -108,7 +108,7 @@ DirSelectDialog Size=846,616
 History Items[$e]=file:$HOME,file:$HOME/Music/Salem/Videos,file:$HOME/.themes/Carl,file:$HOME/.themes/PearDarkBlue,file:$HOME/.themes
 
 [General]
-BrowserApplication=brave-browser-nightly.desktop
+BrowserApplication=google-chrome.desktop
 ColorScheme=Gently
 ColorSchemeHash=215c34bda75ba8108f2263e97ab41675939a17bc
 Name=Gently
@@ -117,7 +117,7 @@ TerminalService=kitty.desktop
 shadeSortColumn=true
 
 [Icons]
-Theme=McMojave-circle-dark
+Theme=ePapirus-Dark
 
 [KDE]
 ColorScheme=Gently

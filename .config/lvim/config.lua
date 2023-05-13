@@ -10,8 +10,13 @@ an executable
 
 -- general
 lvim.log.level = "warn"
-lvim.format_on_save.enabled = false
+lvim.format_on_save.enabled = true
+-- lvim.colorscheme = "lunar"
 lvim.colorscheme = "github_dark_default"
+lvim.keys.normal_mode["<Space>t"] = ":ToggleTerm size=12 direction=horizontal<cr>"
+lvim.keys.normal_mode["<Space>r"] = ":RunCodeFile<cr>"
+vim.opt.relativenumber = true
+vim.opt.guifont = "JetBrainsMono Nerd Font:h13"
 -- to disable icons and use a minimalist setup, uncomment the following
 -- lvim.use_icons = false
 
@@ -19,10 +24,6 @@ lvim.colorscheme = "github_dark_default"
 lvim.leader = "space"
 -- add your own keymapping
 lvim.keys.normal_mode["<C-s>"] = ":w<cr>"
-lvim.keys.normal_mode["<Space>t"] = ":ToggleTerm size=12 direction=horizontal<cr>"
-lvim.keys.normal_mode["<Space>r"] = ":RunCodeFile<cr>"
-vim.opt.relativenumber = true
-vim.opt.guifont="JetBrainsMono Nerd Font:h13"
 -- lvim.keys.normal_mode["<S-l>"] = ":BufferLineCycleNext<CR>"
 -- lvim.keys.normal_mode["<S-h>"] = ":BufferLineCyclePrev<CR>"
 -- unmap a default keymapping
@@ -52,7 +53,6 @@ vim.opt.guifont="JetBrainsMono Nerd Font:h13"
 -- lvim.builtin.theme.options.dim_inactive = true
 -- lvim.builtin.theme.options.style = "storm"
 
--- lvim.transparent_window = true
 -- Use which-key to add extra bindings with the leader-key prefix
 -- lvim.builtin.which_key.mappings["P"] = { "<cmd>Telescope projects<CR>", "Projects" }
 -- lvim.builtin.which_key.mappings["t"] = {
@@ -74,9 +74,6 @@ lvim.builtin.nvimtree.setup.view.side = "left"
 lvim.builtin.nvimtree.setup.renderer.icons.show.git = false
 require("lvim.lsp.manager").setup("angularls")
 require("lvim.lsp.manager").setup("emmet_ls")
-
--- require('emmet_ls').setup(filetypes = {'html', 'typescript'})
-
 -- if you don't want all the parsers change this to a table of the ones you want
 lvim.builtin.treesitter.ensure_installed = {
   "bash",
@@ -172,18 +169,23 @@ lvim.builtin.treesitter.highlight.enable = true
 -- }
 
 -- Additional Plugins
+-- lvim.plugins = {
+--     {
+--       "folke/trouble.nvim",
+--       cmd = "TroubleToggle",
+--     },
+-- }
 lvim.plugins = {
-    {
-      "folke/trouble.nvim",
-      cmd = "TroubleToggle",
-    },
+  {
+    "folke/trouble.nvim",
+    cmd = "TroubleToggle",
+  },
   { "nvim-treesitter/nvim-treesitter-angular" }
   , { 'Shatur/neovim-ayu' }
-  , { 'NvChad/nvim-colorizer.lua' },
+, { 'NvChad/nvim-colorizer.lua' },
   { 'projekt0n/github-nvim-theme' },
   { 'arjunmahishi/flow.nvim' }, { "is0n/jaq-nvim" }, { 'pallavagarwal07/AutoRun' }, { 'elkowar/yuck.vim' }
 }
-
 -- Autocommands (https://neovim.io/doc/user/autocmd.html)
 -- vim.api.nvim_create_autocmd("BufEnter", {
 --   pattern = { "*.json", "*.jsonc" },

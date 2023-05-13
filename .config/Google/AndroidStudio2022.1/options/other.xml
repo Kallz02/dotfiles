@@ -42,6 +42,26 @@
             <ProjectPluginTracker />
           </value>
         </entry>
+        <entry key="2N0H7yKR3LnufzVgwAotq4KHDIJ">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2N3QxrtlM2h7u0S5rPsy4guVqed">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2NfNAHxbKY0OKkc4juUY5UFFk5T">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2NigDD1ZFkrIWdDz2irEx1onJ28">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
       </map>
     </trackers>
   </component>
@@ -75,6 +95,7 @@
   </component>
   <component name="PropertyService"><![CDATA[{
   "keyToString": {
+    "ATTACHED_TOOL_WINDOW.DEFAULT.DESIGN_FILES_PREVIEW_EDITOR.TOOL_ORDER": "",
     "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.DEACTIVATED.AUTO_HIDE": "false",
     "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.DEACTIVATED.LEFT": "true",
     "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.DEACTIVATED.MINIMIZED": "false",
@@ -83,6 +104,10 @@
     "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.FULL.LEFT": "true",
     "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.FULL.MINIMIZED": "false",
     "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.FULL.SPLIT": "true",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.SPLIT.AUTO_HIDE": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.SPLIT.LEFT": "true",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.SPLIT.MINIMIZED": "true",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.SPLIT.SPLIT": "true",
     "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.DEACTIVATED.AUTO_HIDE": "false",
     "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.DEACTIVATED.LEFT": "true",
     "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.DEACTIVATED.MINIMIZED": "false",
@@ -91,6 +116,10 @@
     "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.FULL.LEFT": "true",
     "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.FULL.MINIMIZED": "false",
     "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.FULL.SPLIT": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.SPLIT.AUTO_HIDE": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.SPLIT.LEFT": "true",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.SPLIT.MINIMIZED": "true",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.SPLIT.SPLIT": "false",
     "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.DEACTIVATED.AUTO_HIDE": "false",
     "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.DEACTIVATED.LEFT": "false",
     "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.DEACTIVATED.MINIMIZED": "false",
@@ -99,53 +128,68 @@
     "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.FULL.LEFT": "false",
     "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.FULL.MINIMIZED": "false",
     "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.FULL.SPLIT": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.SPLIT.AUTO_HIDE": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.SPLIT.LEFT": "false",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.SPLIT.MINIMIZED": "true",
+    "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.SPLIT.SPLIT": "false",
     "ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.TOOL_ORDER": "PALETTE,PROPERTIES,COMPONENT_TREE",
+    "ATTACHED_TOOL_WINDOW.DESIGN_FILES_PREVIEW_EDITOR.TOOL_ORDER": "",
     "ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.DEACTIVATED.LEFT": "true",
     "ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.DEACTIVATED.SPLIT": "true",
     "ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.FULL.LEFT": "true",
-    "ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.FULL.MINIMIZED": "true",
     "ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.FULL.SPLIT": "true",
+    "ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.SPLIT.LEFT": "true",
+    "ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.SPLIT.SPLIT": "true",
     "ATTACHED_TOOL_WINDOW.NELE_EDITOR.LEFT.UNSCALED.WIDTH": "225",
     "ATTACHED_TOOL_WINDOW.NELE_EDITOR.PALETTE.DEACTIVATED.LEFT": "true",
     "ATTACHED_TOOL_WINDOW.NELE_EDITOR.PALETTE.FULL.LEFT": "true",
+    "ATTACHED_TOOL_WINDOW.NELE_EDITOR.PALETTE.SPLIT.LEFT": "true",
+    "ATTACHED_TOOL_WINDOW.NELE_EDITOR.PALETTE.SPLIT.MINIMIZED": "true",
+    "ATTACHED_TOOL_WINDOW.NELE_EDITOR.PROPERTIES.SPLIT.MINIMIZED": "true",
     "ATTACHED_TOOL_WINDOW.NELE_EDITOR.RIGHT.UNSCALED.WIDTH": "280",
-    "ATTACHED_TOOL_WINDOW.NELE_EDITOR.TEXT_SEARCH_HISTORY": "size\nfont",
+    "ATTACHED_TOOL_WINDOW.NELE_EDITOR.TEXT_SEARCH_HISTORY": "hei\nback\ncor\ntext\nbol",
     "ATTACHED_TOOL_WINDOW.NELE_EDITOR.TOOL_ORDER": "PALETTE,PROPERTIES,COMPONENT_TREE",
     "AndroidInitConfigurator.V1": "true",
     "AndroidInitConfigurator.V3": "true",
     "AndroidInitConfigurator.V5": "true",
     "FLUTTER_LAST_SURVEY_CONTENT_CHECK_KEY": "1676527094776",
-    "MarketplacePluginsSearchHistory": "gitlive\ngitliv\ng\nduckl\nduckly",
+    "MarketplacePluginsSearchHistory": "after\nafterda\nafterd\ngitlive\ngitliv",
     "RunOnceActivity.cidr.test.framework.showIndexingAsTask": "true",
     "RunOnceActivity.se.text.search": "true",
     "SAVED_ANDROID_NPW_ASKED_LANGUAGE": "true",
     "SAVED_ANDROID_NPW_LANGUAGE": "Java",
     "SAVED_ANDROID_PACKAGE": "com.example",
     "SAVED_RENDER_LANGUAGE": "Java",
+    "SPLIT_EDITOR_MODE_/home/akshayk/AndroidStudioProjects/Autowalaz/app/src/main/res/layout/activity_phone_number.xml": "SPLIT",
+    "SPLIT_EDITOR_MODE_/home/akshayk/AndroidStudioProjects/InstaAndroid/app/src/main/res/layout/activity_main.xml": "DEACTIVATED",
     "SPLIT_EDITOR_MODE_/home/akshayk/AndroidStudioProjects/Switch/app/src/main/res/layout/activity_main.xml": "FULL",
     "SPLIT_EDITOR_MODE_/home/akshayk/AndroidStudioProjects/Switch/app/src/main/res/layout/activity_new.xml": "DEACTIVATED",
+    "SPLIT_EDITOR_MODE_/home/akshayk/zotron/app/src/main/res/layout/activity_phone_number.xml": "SPLIT",
     "SettingsSearchHistory": "settings",
     "Source Code Editor With PreviewLayout": "Editor only",
-    "appcds.runOnSecondStart": "AI-221.6008.13.2211.9619390-16669836eb8f9bde8da3d60f56d9cacf5b80bb3f6952489ef6ca4cc9e047f2f1",
+    "appcds.runOnSecondStart": "AI-221.6008.13.2211.9619390-d5157250727f9bbdb1fa40bfb13534146c8b23a6c02e825f15cf441554ffa315",
     "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
     "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
     "bundled.plugins.list.saved.version": "AI-221.6008.13.2211.9619390",
     "com.intellij.ide.projectWizard.generators.JavaNewProjectWizard$Step.selectedStep": "IntelliJ",
     "com.intellij.ide.wizard.NewProjectWizardLanguageStep.selectedStep": "Java",
     "defaultJdkConfigured": "true",
-    "file.gist.reindex.count": "142",
+    "file.gist.reindex.count": "290",
     "fileTypeChangedCounter": "3",
     "gotit.previous.run": "AI-221.6008.13.2211.9619390",
-    "ideavim.statistics.timestamp": "1678729568134",
+    "ideavim.statistics.timestamp": "1680533277740",
     "ignore.vm.options.env.vars": "true",
     "input.method.disabler.muted": "true",
+    "inspector.open.Declared Attributes": "true",
+    "inspector.open.Transforms": "false",
     "installed.kotlin.plugin.version": "221-1.8.0-release-for-android-studio-AS5591.52",
     "io.flutter.analytics.clientId": "4ff151f2-c0be-41a6-8a90-f29c04675c9a",
     "io.flutter.analytics.optOut": "true",
     "io.flutter.analytics.toastShown": "true",
     "io.flutter.console.preferencesSet": "true",
     "jdk.selected.JAVA_MODULE": "11",
-    "last_opened_file_path": "/opt/flutter",
+    "last_opened_file_path": "/home/akshayk",
+    "newly.installed.api.level": "33",
     "project.wizard.group": "JAVA_MODULE_io.flutter.module.FlutterModuleBuilder",
     "registry.to.advanced.settings.migration.build": "AI-221.6008.13.2211.9619390",
     "tasks.pass.word.conversion.enforced": "true"
@@ -155,6 +199,10 @@
       "/opt/flutter"
     ],
     "file.chooser.recent.files": [
+      "/home/akshayk/AndroidStudioProjects/InstaAndroid",
+      "/home/akshayk",
+      "/home/akshayk/Downloads/iconmonstr-github-4.svg",
+      "/home/akshayk/AndroidStudioProjects/InstaAndroid/app/src/main/res/drawable/icons8-instagram.svg",
       "/home/akshayk/zotron",
       "/home/akshayk/AndroidStudioProjects/Switch",
       "/home/akshayk/AndroidStudioProjects/Calculator",
@@ -170,4 +218,11 @@
     ]
   }
 }]]></component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="InstaAndroid-history" project-path="$USER_HOME$/AndroidStudioProjects/InstaAndroid" last-access-time="1680589933246" />
+      <command-history-file filename="zotron-history1" project-path="$USER_HOME$/zotron" last-access-time="1678879277849" />
+      <command-history-file filename="Autowalaz-history" project-path="$USER_HOME$/AndroidStudioProjects/Autowalaz" last-access-time="1678897245661" />
+    </command-history-files>
+  </component>
 </application>

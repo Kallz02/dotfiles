@@ -105,14 +105,55 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/zotron">
+        <entry key="$USER_HOME$/AndroidStudioProjects/newApp">
           <value>
-            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2JYH2147bzX8GZ9G0fgo6C7HjrE">
+            <RecentProjectMetaInfo frameTitle="newApp – MainActivity.java [newApp.app.main]" projectWorkspaceId="2N0H7yKR3LnufzVgwAotq4KHDIJ">
+              <option name="activationTimestamp" value="1678793942880" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="AI-221.6008.13.2211.9619390" />
-              <option name="buildTimestamp" value="1676595076845" />
+              <option name="buildTimestamp" value="1676595119689" />
+              <frame x="3" y="21" width="1914" height="1056" />
               <option name="productionCode" value="AI" />
-              <option name="projectOpenTimestamp" value="1678729806897" />
+              <option name="projectOpenTimestamp" value="1678793915573" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/Autowalaz">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Autowalaz – AndroidManifest.xml [Autowalaz.app.main]" projectWorkspaceId="2N3QxrtlM2h7u0S5rPsy4guVqed">
+              <option name="activationTimestamp" value="1680051030799" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-221.6008.13.2211.9619390" />
+              <option name="buildTimestamp" value="1676595065596" />
+              <frame x="3" y="21" width="1914" height="1056" extendedState="6" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1678890540700" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/zotron">
+          <value>
+            <RecentProjectMetaInfo frameTitle="zotron – activity_phone_number.xml [zotron.app.main]" projectWorkspaceId="2NfNAHxbKY0OKkc4juUY5UFFk5T">
+              <option name="activationTimestamp" value="1680365069064" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-221.6008.13.2211.9619390" />
+              <option name="buildTimestamp" value="1676595066757" />
+              <frame x="964" y="21" width="953" height="1056" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1680363645558" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AndroidStudioProjects/InstaAndroid">
+          <value>
+            <RecentProjectMetaInfo frameTitle="InstaAndroid – activity_main.xml [InstaAndroid.app.main]" opened="true" projectWorkspaceId="2NigDD1ZFkrIWdDz2irEx1onJ28">
+              <option name="activationTimestamp" value="1680590388554" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-221.6008.13.2211.9619390" />
+              <option name="buildTimestamp" value="1676595066757" />
+              <frame x="964" y="21" width="953" height="1056" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1680365071224" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

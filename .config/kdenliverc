@@ -1,29 +1,41 @@
 [KFileDialog Settings]
-Recent Files[$e]=2023-01-23 22-09-28.mkv,file:$HOME/Videos/Salem.kdenlive,file:$HOME/Videos/2023-01-23 22-09-28.mkv
-Recent URLs[$e]=file:$HOME/Videos/,file:$HOME/Documents/
+Recent Files[$e]=2023-01-23 22-09-28.mkv,file:$HOME/The best Places to eat in Mayapur! [nS89KWRRj7A].webm,file:$HOME/A Spiritual City in West Bengal India ｜ I love Mayapur [kwF1ZkG98BA].webm,file:$HOME/Nityananda [pA-3_uZdOAc].webm,file:$HOME/Videos/Mayapur.kdenlive,file:$HOME/Sri Jagannath Puri Ratha Yatra in Stunning 4K for 2019. First 4K Puri Ratha on You Tube. [09Z3wBGkar0].webm,file:$HOME/The City Life of Mayapur\\, India - 4K Urban Documentary Film without Narration [sOFXy1BWtig].mkv,file:$HOME/Visiting this Gurukula (ancient school) is always amazing [oqGKPAcyV6Y].webm,file:$HOME/10 Things to do in Mayapur [e6lvbgDtkGI].webm
+Recent URLs[$e]=file:$HOME/Videos/,file:$HOME/Documents/,file:$HOME/
 detailViewIconSize=16
 
 [MainWindow]
+1920x1080 screen: Height=952
+1920x1080 screen: Width=1280
+1920x1080 screen: Window-Maximized=true
+1920x1080 screen: XPosition=504
+1920x1080 screen: YPosition=523
 DP-1=DP-1
 DP-1 Height 1920x1080 DP-1=1054
 DP-1 Width 1920x1080 DP-1=1910
 DP-1 XPosition 1920x1080 DP-1=5
 DP-1 YPosition 1920x1080 DP-1=21
+HDMI-1-1=HDMI-1-1
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAgAAAAEAAAGPAAACO/wCAAAAAfwAAAHDAAACOwAAAa8BAAAo+gAAAAECAAAABPsAAAAKAG0AaQB4AGUAcgAAAAHwAAACCwAAAIcBAAAJ+wAAABgAZQBmAGYAZQBjAHQAXwBzAHQAYQBjAGsBAAAAAP////8AAACAAQAACPsAAAASAHQAaQBtAGUAcgBlAG0AYQBwAQAAAAD/////AAAAZgEAAAj7AAAAEgBTAHUAYgB0AGkAdABsAGUAcwEAAAAA/////wAAAYYBAAAIAAAAAgAAB3YAAAHC/AEAAAAM+wAAABQAcwBjAHIAZQBlAG4AZwByAGEAYgAAAAAA/////wAAAG8BAAAJ+wAAABoAYQB1AGQAaQBvAHMAcABlAGMAdAByAHUAbQAAAAAA/////wAAAG8BAAAJ/AAAAAAAAAEKAAAAlwD////6AAAAAAEAAAAF+wAAABYAcAByAG8AagBlAGMAdABfAGIAaQBuAQAAAAD/////AAAAZwEAAAn7AAAAHgB0AHIAYQBuAHMAaQB0AGkAbwBuAF8AbABpAHMAdAEAAAAA/////wAAAAoBAAAJ+wAAABYAZQBmAGYAZQBjAHQAXwBsAGkAcwB0AQAAAAD/////AAAACgEAAAn7AAAAHgBjAGwAaQBwAF8AcAByAG8AcABlAHIAdABpAGUAcwEAAAAA/////wAAAF0BAAAJ+wAAABgAdQBuAGQAbwBfAGgAaQBzAHQAbwByAHkBAAAAAP////8AAABnAQAACfwAAAELAAAD7wAAAUoA////+gAAAAACAAAAAvsAAAAYAGMAbABpAHAAXwBtAG8AbgBpAHQAbwByAQAAAEQAAAHNAAAA0QEAAAj7AAAADgBsAGkAYgByAGEAcgB5AQAAAAD/////AAAAngEAAAj8AAAE+wAAAnsAAAGpAP////oAAAAAAgAAAAP7AAAAHgBwAHIAbwBqAGUAYwB0AF8AbQBvAG4AaQB0AG8AcgEAAAC/AAABLAAAANEBAAAI+wAAABAAdABlAHgAdABlAGQAaQB0AQAAAAD/////AAABegEAAAj7AAAAGABuAG8AdABlAHMAXwB3AGkAZABnAGUAdAEAAAAA/////wAAAJYBAAAI+wAAABYAdgBlAGMAdABvAHIAcwBjAG8AcABlAAAAAAD/////AAABOgEAAAn7AAAAEAB3AGEAdgBlAGYAbwByAG0AAAAAAP////8AAACyAQAACfsAAAAUAHIAZwBiAF8AcABhAHIAYQBkAGUAAAAAAP////8AAACtAQAACfsAAAASAGgAaQBzAHQAbwBnAHIAYQBtAAAAAAD/////AAABcwEAAAn7AAAAEABiAGkAbgBfAGMAbABpAHAAAAAE/wAAAoEAAAI4AQAACfsAAAAeAG8AbgBsAGkAbgBlAHIAZQBzAG8AdQByAGMAZQBzAAAAAAD/////AAABWgEAAAn7AAAADABnAHUAaQBkAGUAcwAAAAAA/////wAAAO4BAAAJAAAF5gAAAjsAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAgAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAAAAAAD/////AAAAAAAAAAAAAAAYAGUAeAB0AHIAYQBUAG8AbwBsAEIAYQByAAAAAAD/////AAAAAAAAAAA=
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAgAAAAEAAAGeAAACF/wCAAAAAfwAAAHkAAACFwAAAbQBAAAo+gAAAAECAAAABPsAAAAKAG0AaQB4AGUAcgAAAAHwAAACCwAAAIcBAAAJ+wAAABgAZQBmAGYAZQBjAHQAXwBzAHQAYQBjAGsBAAAAAP////8AAACAAQAACPsAAAASAHQAaQBtAGUAcgBlAG0AYQBwAQAAAAD/////AAAAZgEAAAj7AAAAEgBTAHUAYgB0AGkAdABsAGUAcwEAAAAA/////wAAAYsBAAAIAAAAAgAAB4AAAAHj/AEAAAAM+wAAABQAcwBjAHIAZQBlAG4AZwByAGEAYgAAAAAA/////wAAAG8BAAAJ+wAAABoAYQB1AGQAaQBvAHMAcABlAGMAdAByAHUAbQAAAAAA/////wAAAG8BAAAJ/AAAAAAAAAFGAAAAzAD////6AAAAAgEAAAAF+wAAABYAcAByAG8AagBlAGMAdABfAGIAaQBuAQAAAAD/////AAAAzAEAAAn7AAAAHgB0AHIAYQBuAHMAaQB0AGkAbwBuAF8AbABpAHMAdAEAAAAA/////wAAAAoBAAAJ+wAAABYAZQBmAGYAZQBjAHQAXwBsAGkAcwB0AQAAAAD/////AAAACgEAAAn7AAAAHgBjAGwAaQBwAF8AcAByAG8AcABlAHIAdABpAGUAcwEAAAAA/////wAAAF0BAAAJ+wAAABgAdQBuAGQAbwBfAGgAaQBzAHQAbwByAHkBAAAAAP////8AAABnAQAACfwAAAFHAAADJgAAAUoA////+gAAAAACAAAAAvsAAAAYAGMAbABpAHAAXwBtAG8AbgBpAHQAbwByAQAAAEQAAAHNAAAA0QEAAAj7AAAADgBsAGkAYgByAGEAcgB5AQAAAAD/////AAAAngEAAAj8AAAEbgAAAxIAAAF9AP////oAAAAAAgAAAAP7AAAAHgBwAHIAbwBqAGUAYwB0AF8AbQBvAG4AaQB0AG8AcgEAAAC/AAABLAAAANEBAAAI+wAAABAAdABlAHgAdABlAGQAaQB0AQAAAAD/////AAABfAEAAAj7AAAAGABuAG8AdABlAHMAXwB3AGkAZABnAGUAdAEAAAAA/////wAAAJYBAAAI+wAAABYAdgBlAGMAdABvAHIAcwBjAG8AcABlAAAAAAD/////AAABSgEAAAn7AAAAEAB3AGEAdgBlAGYAbwByAG0AAAAAAP////8AAAC6AQAACfsAAAAUAHIAZwBiAF8AcABhAHIAYQBkAGUAAAAAAP////8AAAC2AQAACfsAAAASAGgAaQBzAHQAbwBnAHIAYQBtAAAAAAD/////AAABfwEAAAn7AAAAEABiAGkAbgBfAGMAbABpAHAAAAAE/wAAAoEAAAI4AQAACfsAAAAeAG8AbgBsAGkAbgBlAHIAZQBzAG8AdQByAGMAZQBzAAAAAAD/////AAABWgEAAAn7AAAADABnAHUAaQBkAGUAcwAAAAAA/////wAAAOQBAAAJAAAF4QAAAhcAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAgAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAAAAAAD/////AAAAAAAAAAAAAAAYAGUAeAB0AHIAYQBUAG8AbwBsAEIAYQByAAAAAAD/////AAAAAAAAAAA=
 ToolBarsMovable=Disabled
+eDP-1=eDP-1
 
 [OnlineResources]
 provider=Freesound
 zoom=7
 
 [Recent Dirs]
-KdenliveClipFolder[$e]=$HOME/Videos/,$HOME/Videos,$HOME/Documents
-KdenliveProjectsFolder[$e]=$HOME/Videos/,$HOME/Documents
+KdenliveClipFolder[$e]=$HOME/,$HOME/Videos/,$HOME/Videos
+KdenliveProjectsFolder[$e]=$HOME/Videos,$HOME/Videos/,$HOME/Documents
 
 [Recent Files]
 File1[$e]=$HOME/Videos/Salem.kdenlive
+File2[$e]=$HOME/Videos/Mayapur.kdenlive
+File3[$e]=$HOME/Videos/Mayapur-3000.kdenlive
 Name1[$e]=Salem.kdenlive
+Name2[$e]=Mayapur.kdenlive
+Name3[$e]=Mayapur-3000.kdenlive
 
 [Scope_Histogram]
 autoRefresh=true
@@ -60,11 +72,30 @@ paintmode=0
 realtime=false
 rec601=false
 
+[TitleWidget]
+background_alpha=0
+background_color=0,0,0
+dialog_geometry=AdnQywADAAAAAAGSAAAAhAAABdkAAAN2AAABkgAAAKEAAAXZAAADdgAAAAAAAAAAB4AAAAGSAAAAoQAABdkAAAN2
+font_color=255,255,255
+font_family=Noto Sans,-1,419,5,50,0,0,0,0,0
+font_italic=false
+font_outline=0
+font_outline_color=0,0,0
+font_pixel_size=419
+font_underlined=false
+font_weight=50
+rect_background_alpha=255
+rect_background_color=0,0,0
+rect_foreground_alpha=255
+rect_foreground_color=0,0,0
+rect_line_width=0
+use_grid=false
+
 [UiSettings]
 ColorSchemePath=Carl.colors
 
 [bin]
-treeviewheaders=AAAA/wAAAAAAAAABAAAAAAAAAAABAAAAAAAAAAAAAAAJ/gEAAAAIAAAACAAAAGQAAAAHAAAAMAAAAAYAAAAoAAAABQAAAFEAAAAEAAAAMQAAAAMAAAA4AAAAAgAAAGAAAAABAAAAOAAAAJ4AAAAJAQEAAQAAAAAAAAAAAAAAAGT/////AAAAgQAAAAAAAAAJAAAAngAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAD6AAAAAA/
+treeviewheaders=AAAA/wAAAAAAAAABAAAAAAAAAAABAAAAAAAAAAAAAAAJ/gEAAAAIAAAACAAAAGQAAAAHAAAANAAAAAYAAAAoAAAABQAAAFEAAAAEAAAAMQAAAAMAAAA4AAAAAgAAAGAAAAABAAAAOAAAAMUAAAAJAQEAAQAAAAAAAAAAAAAAAGT/////AAAAgQAAAAAAAAAJAAAAxQAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAD6AAAAAA/
 
 [capture]
 decklink_capturedevice=4294967295
@@ -82,7 +113,7 @@ defaultprojectfolder[$e]=$HOME/Videos
 ffmpegpath[$e]=/usr/bin/ffmpeg
 ffplaypath[$e]=/usr/bin/ffplay
 ffprobepath[$e]=/usr/bin/ffprobe
-lastCacheCheck=2023,2,27,10,13,16.444
+lastCacheCheck=2023,4,8,8,31,31.273
 mltpath[$e]=/usr/share/mlt-7/profiles
 rendererpath[$e]=/usr/bin/melt-7
 
@@ -91,7 +122,6 @@ externalProxyProfile=./;;.LRV;./;;.MP4
 
 [sdl]
 blackmagic_output_device=-1
-gpu_accel=true
 preferredcomposite=qtblend
 
 [settings]
@@ -103,13 +133,16 @@ shuttlebuttons=button0=monitor_pause
 [timeline]
 trackheight=69
 
+[titles]
+titlerShowbg=true
+
 [unmanaged]
 consumerslist=decklink,sdl2,sdl2_audio,qglsl,xgl,rtaudio,sdl,sdl_audio,sdl_preview,sdl_still,blipflash,cbrts,multi,null,xml,jack
 default_profile=atsc_1080p_25
 force_breeze=true
 guidesCategories=Category 1:0:#9b59b6,Category 2:1:#3daee9,Category 3:2:#1abc9c,Category 4:3:#1cdc9a,Category 5:4:#c9ce3b,Category 6:5:#fdbc4b,Category 7:6:#f39c1f,Category 8:7:#f47750,Category 9:8:#da4453
 monitor_audio=false
-producerslist=decklink,qimage,qtext,kdenlivetitle,blipflash,count,pgm,avformat,avformat-novalidate,glaxnimate,vorbis,pango,pixbuf,abnormal,color,colour,consumer,hold,loader,loader-nogl,melt,melt_file,noise,timewarp,tone,frei0r.ising0r,frei0r.lissajous0r,frei0r.nois0r,frei0r.onecol0r,frei0r.partik0l,frei0r.plasma,frei0r.test_pat_B,frei0r.test_pat_C,frei0r.test_pat_G,frei0r.test_pat_I,frei0r.test_pat_L,frei0r.test_pat_R,xml,xml-string,xml-nogl,framebuffer,ladspa.1416,ladspa.1885,ladspa.1881,ladspa.1047,ladspa.1050
+producerslist=blipflash,count,pgm,vorbis,qimage,qtext,kdenlivetitle,glaxnimate,pango,pixbuf,abnormal,color,colour,consumer,hold,loader,loader-nogl,melt,melt_file,noise,timewarp,tone,decklink,xml,xml-string,xml-nogl,framebuffer,frei0r.ising0r,frei0r.lissajous0r,frei0r.nois0r,frei0r.onecol0r,frei0r.partik0l,frei0r.plasma,frei0r.test_pat_B,frei0r.test_pat_C,frei0r.test_pat_G,frei0r.test_pat_I,frei0r.test_pat_L,frei0r.test_pat_R,avformat,avformat-novalidate,ladspa.1416,ladspa.1885,ladspa.1881,ladspa.1047,ladspa.1050
 use_dark_breeze=true
 widgetstyle=Default
 

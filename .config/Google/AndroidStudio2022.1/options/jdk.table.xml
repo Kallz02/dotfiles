@@ -36,13 +36,13 @@
       <roots>
         <annotationsPath>
           <root type="composite">
-            <root url="jar://$USER_HOME$/Android/Sdk/platforms/android-32/data/annotations.zip!/" type="simple" />
+            <root url="jar://$USER_HOME$/Android/Sdk/platforms/android-32-2/data/annotations.zip!/" type="simple" />
           </root>
         </annotationsPath>
         <classPath>
           <root type="composite">
-            <root url="jar://$USER_HOME$/Android/Sdk/platforms/android-32/android.jar!/" type="simple" />
-            <root url="file://$USER_HOME$/Android/Sdk/platforms/android-32/data/res" type="simple" />
+            <root url="jar://$USER_HOME$/Android/Sdk/platforms/android-32-2/android.jar!/" type="simple" />
+            <root url="file://$USER_HOME$/Android/Sdk/platforms/android-32-2/data/res" type="simple" />
           </root>
         </classPath>
         <javadocPath>

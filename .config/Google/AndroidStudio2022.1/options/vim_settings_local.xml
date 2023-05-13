@@ -1,83 +1,157 @@
 <application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search />
+    </history>
+  </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/Switch/app/src/main/java/com/example/aswitch/MainActivity.java" timestamp="1676183970781">
-        <mark key="[" line="28" column="32" />
-        <mark key="]" line="37" column="4" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/InstaAndroid/app/src/main/java/com/example/instaandroid/MainActivity.java" timestamp="1680429802194">
+        <mark key="[" line="62" column="60" />
+        <mark key="]" line="62" column="82" />
+        <mark key="^" line="62" column="82" />
+        <mark key="." line="62" column="81" />
       </file>
-      <file name="/Dummy.lcf" timestamp="1678119995894">
+      <file name="/Dummy.txt" timestamp="1680430304776">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Switch/app/src/main/res/values/strings.xml" timestamp="1676184429419">
-        <mark key="[" line="5" column="20" />
-        <mark key="]" line="5" column="34" />
-        <mark key="." line="5" column="33" />
-        <mark key="^" line="5" column="34" />
+      <file name="$USER_HOME$/AndroidStudioProjects/InstaAndroid/app/build.gradle" timestamp="1680359913697">
+        <mark key="[" line="39" column="39" />
+        <mark key="]" line="39" column="57" />
+        <mark key="^" line="39" column="57" />
+        <mark key="." line="39" column="56" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Autowala/settings.gradle" timestamp="1678009826058">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="/Dummy.lcf" timestamp="1680429461785">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Switch/app/src/main/java/com/example/aswitch/newActivity.java" timestamp="1676190431861">
-        <mark key="[" line="21" column="1" />
-        <mark key="]" line="18" column="26" />
-        <mark key="^" line="18" column="26" />
-        <mark key="." line="18" column="25" />
+      <file name="$USER_HOME$/AndroidStudioProjects/InstaAndroid/app/src/main/res/mipmap-anydpi-v33/ic_launcher.xml" timestamp="1680432499432">
+        <mark key="[" line="3" column="66" />
+        <mark key="]" line="2" column="46" />
+        <mark key="^" line="2" column="46" />
+        <mark key="." line="2" column="45" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Switch/app/src/main/res/layout/activity_new.xml" timestamp="1676183715887">
-        <mark key="[" line="11" column="39" />
-        <mark key="]" line="11" column="39" />
-        <mark key="." line="11" column="38" />
-        <mark key="^" line="11" column="39" />
+      <file name="$USER_HOME$/AndroidStudioProjects/InstaAndroid/app/src/main/AndroidManifest.xml" timestamp="1680432471633">
+        <mark key="[" line="10" column="40" />
+        <mark key="]" line="10" column="41" />
+        <mark key="^" line="10" column="41" />
+        <mark key="." line="10" column="40" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Autowala/app/src/main/java/com/example/autowala/MainActivity.java" timestamp="1678729373839">
-        <mark key="[" line="8" column="3" />
+      <file name="$USER_HOME$/AndroidStudioProjects/InstaAndroid/app/src/main/res/drawable/iconmonstr_github_4.xml" timestamp="1680428611888">
+        <mark key="[" line="1" column="21" />
+        <mark key="]" line="2" column="22" />
+        <mark key="^" line="2" column="22" />
+        <mark key="." line="2" column="21" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/InstaAndroid/app/src/main/res/drawable/icons8_instagram.xml" timestamp="1680428031949">
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="5" column="30" />
+        <mark key="^" line="5" column="30" />
+        <mark key="." line="5" column="29" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/InstaAndroid/app/src/main/res/drawable/ico.xml" timestamp="1680432431724">
+        <mark key="[" line="4" column="29" />
+        <mark key="]" line="6" column="7" />
+        <mark key="^" line="6" column="7" />
+        <mark key="." line="6" column="6" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/InstaAndroid/app/src/main/res/values/strings.xml" timestamp="1680429427501">
+        <mark key="[" line="11" column="30" />
+        <mark key="]" line="13" column="12" />
+        <mark key="." line="13" column="11" />
+        <mark key="^" line="13" column="12" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/InstaAndroid/app/src/main/res/values/themes.xml" timestamp="1680366115749">
+        <mark key="[" line="20" column="67" />
+        <mark key="]" line="21" column="51" />
+        <mark key="^" line="21" column="51" />
+        <mark key="." line="21" column="50" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Autowalaz/app/src/main/java/com/example/autowalaz/OTP.java" timestamp="1678897102756">
+        <mark key="[" line="34" column="4" />
+        <mark key="]" line="35" column="4" />
+        <mark key="^" line="35" column="4" />
+        <mark key="." line="35" column="3" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/InstaAndroid/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" timestamp="1680432221745">
+        <mark key="[" line="2" column="66" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Autowalaz/app/src/main/java/com/example/autowalaz/PhoneNumber.java" timestamp="1678898129565">
+        <mark key="[" line="51" column="80" />
+        <mark key="]" line="40" column="16" />
+        <mark key="^" line="40" column="16" />
+        <mark key="." line="40" column="15" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/InstaAndroid/settings.gradle" timestamp="1680239593057">
+        <mark key="[" line="12" column="4" />
         <mark key="]" line="13" column="4" />
+        <mark key="^" line="13" column="4" />
+        <mark key="." line="13" column="3" />
       </file>
-      <file name="/" timestamp="1673337019901">
+      <file name="$USER_HOME$/AndroidStudioProjects/InstaAndroid/app/src/main/res/drawable/textbox_outline.xml" timestamp="1680430692123">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="36" />
+        <mark key="." line="3" column="30" />
+        <mark key="^" line="3" column="31" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/InstaAndroid/app/src/main/res/drawable/grad.xml" timestamp="1680430883106">
+        <mark key="[" line="13" column="25" />
+        <mark key="]" line="13" column="26" />
+        <mark key="." line="13" column="25" />
+        <mark key="^" line="13" column="26" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Autowalaz/app/src/main/res/values/strings.xml" timestamp="1678892398987">
+        <mark key="[" line="1" column="45" />
+        <mark key="]" line="2" column="40" />
+        <mark key="^" line="2" column="40" />
+        <mark key="." line="2" column="39" />
+      </file>
+      <file name="/fragment.java" timestamp="1678897430891">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Switch/app/src/main/res/layout/activity_main.xml" timestamp="1676183696014">
-        <mark key="[" line="8" column="3" />
-        <mark key="]" line="27" column="62" />
-      </file>
-      <file name="/fragment.java" timestamp="1676183658513">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Autowala/app/src/main/java/com/example/autowala/Login.java" timestamp="1678729397405">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="5" column="4" />
-        <mark key="." line="7" column="0" />
       </file>
     </filemarks>
     <jumps />
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="0" type="4">
-        <text encoding="base64">IEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgb25DcmVhdGUoQnVuZGxlIHNhdmVkSW5zdGFuY2VTdGF0ZSkgewogICAgICAgIHN1cGVyLm9uQ3JlYXRlKHNhdmVkSW5zdGFuY2VTdGF0ZSk7CiAgICAgICAgc2V0Q29udGVudFZpZXcoUi5sYXlvdXQuYWN0aXZpdHlfbWFpbik7CgogICAgfQ==</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgb25DcmVhdGUoQnVuZGxlIHNhdmVkSW5zdGFuY2VTdGF0ZSkgewogICAgICAgIHN1cGVyLm9uQ3JlYXRlKHNhdmVkSW5zdGFuY2VTdGF0ZSk7CiAgICAgICAgc2V0Q29udGVudFZpZXcoUi5sYXlvdXQuYWN0aXZpdHlfbWFpbik7CgogICAgfQo=</text>
-      </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgb25DcmVhdGUoQnVuZGxlIHNhdmVkSW5zdGFuY2VTdGF0ZSkgewogICAgICAgIHN1cGVyLm9uQ3JlYXRlKHNhdmVkSW5zdGFuY2VTdGF0ZSk7CiAgICAgICAgc2V0Q29udGVudFZpZXcoUi5sYXlvdXQuYWN0aXZpdHlfbWFpbik7CgogICAgfQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlcGVuZGVuY2llcyB7CiAgICAgICAgLy8gSW1wb3J0IHRoZSBCb00gZm9yIHRoZSBGaXJlYmFzZSBwbGF0Zm9ybQogICAgICAgIGltcGxlbWVudGF0aW9uIHBsYXRmb3JtKCdjb20uZ29vZ2xlLmZpcmViYXNlOmZpcmViYXNlLWJvbTozMS4yLjMnKQoKICAgICAgICAvLyBBZGQgdGhlIGRlcGVuZGVuY3kgZm9yIHRoZSBGaXJlYmFzZSBBdXRoZW50aWNhdGlvbiBsaWJyYXJ5CiAgICAgICAgLy8gV2hlbiB1c2luZyB0aGUgQm9NLCB5b3UgZG9uJ3Qgc3BlY2lmeSB2ZXJzaW9ucyBpbiBGaXJlYmFzZSBsaWJyYXJ5IGRlcGVuZGVuY2llcwogICAgICAgIGltcGxlbWVudGF0aW9uICdjb20uZ29vZ2xlLmZpcmViYXNlOmZpcmViYXNlLWF1dGgnCiAgICB9Cg==</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">cHJpdmF0ZSB2b2lkIGNoYW5nQWN0aXZpdHkoKXsKCiAgICAgICAgfQ==</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6aGVpZ2h0PSIxMDhkcCIK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">VGV4dFZpZXcgbG9sPWZpbmRWaWV3QnlJZChSLmlkLnRleHRWaWV3KTs=</text>
+        <text encoding="base64">aGlkZUxvYWRpbmdBbmltYXRpb24oKQ==</text>
       </register>
       <register name="." type="4">
-        <text encoding="base64">b25DcmVjcmVhb25jcmVhQE92ZXJyaWRlcHJvdGVjdGVkIHZvaWQgb25DcmVhdGVvbkNvbm9uQ3JlYUNyZWF0ZW9uQ3JlYQ==</text>
+        <text encoding="base64">YmxhQGNvbG9yL2JsYWNr</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGFuZHJvaWQ6aGVpZ2h0PSIxMDhkcCIK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmNvcm5lcj0iMjBkcCIK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpjb3JuZXI9IjIwZHAiCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">PC9zZWxlY3Rvcj4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">PHNlbGVjdG9yIHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCI+Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIDwvYW5kcm9pZHguY2FyZHZpZXcud2lkZ2V0LkNhcmRWaWV3Pgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIDxJbWFnZVZpZXcKICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2ltYWdlVmlldzIiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjM2ZHAiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50RW5kX3RvRW5kT2Y9InBhcmVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRIb3Jpem9udGFsX2JpYXM9IjAuNDk4IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFN0YXJ0X3RvU3RhcnRPZj0icGFyZW50IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b1RvcE9mPSJwYXJlbnQiCiAgICAgICAgdG9vbHM6c3JjQ29tcGF0PSJAdG9vbHM6c2FtcGxlL2F2YXRhcnMiIC8+Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwaG9uZU51bWJlcj0idHJ1ZSIK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIDxFZGl0VGV4dAogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvaW5wdXRfdXNlcm5hbWUiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmF1dG9maWxsSGludHM9InVzZXJuYW1lIgogICAgICAgIGFuZHJvaWQ6ZW1zPSIxMCIKICAgICAgICBhbmRyb2lkOmhpbnQ9IkVudGVyIFVzZXJuYW1lIgogICAgICAgIGFuZHJvaWQ6aW5wdXRUeXBlPSJ0ZXh0UGVyc29uTmFtZSIKICAgICAgICBhbmRyb2lkOm1pbkhlaWdodD0iNDhkcCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Ub3BPZj0iQCtpZC9idG5fY2hlY2tfc3RhdHVzIgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEVuZF90b0VuZE9mPSJwYXJlbnQiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50U3RhcnRfdG9TdGFydE9mPSJwYXJlbnQiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvVG9wT2Y9InBhcmVudCIKICAgICAgICB0b29sczppZ25vcmU9IkxhYmVsRm9yIiAvPgo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHNlbGVjdG9yIHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCI+Cgo8L3NlbGVjdG9yPgo=</text>
       </register>
     </registers>
   </component>
