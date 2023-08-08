@@ -18,3 +18,6 @@ export PATH=$PATH:/home/akshayk/.spicetify
 source /usr/share/bash-completion/bash_completion
 # Load Angular CLI autocompletion.
 source <(ng completion script)
+
+
+PATH=~/.console-ninja/.bin:$PATH

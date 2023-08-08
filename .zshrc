@@ -15,6 +15,7 @@ PROMPT_EOL_MARK=''
 alias dt='/usr/bin/git --git-dir=$HOME/dotfiles/ --work-tree=$HOME'
 alias neo='env -u WAYLAND_DISPLAY neovide-lunarvim '
 source /usr/share/nvm/init-nvm.sh
+export XDG_CURRENT_DESKTOP=GNOME
 # Enable syntax highlighting.
 source ~/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 # Enable autosuggestions.

@@ -11,7 +11,7 @@ env:
   # check the local terminfo database and use `alacritty` if it is
   # available, otherwise `xterm-256color` is used.
   TERM: alacritty
-  WINIT_X11_SCALE_FACTOR: '1.0'
+  WINIT_X11_SCALE_FACTOR: "1.0"
   LANG: "en_US.UTF-8"
   LC_CTYPE: en_US.UTF-8
 window:
@@ -20,69 +20,69 @@ window:
   # Specified in floating number from `0.0` to `1.0`.
   # The value `0.0` is completely transparent and `1.0` is opaque.
   opacity: .5
-  # Window dimensions (changes require restart)
-  #
-  # Specified in number of columns/lines, not pixels.
-  # If both are `0`, this setting is ignored.
-  #dimensions:
-  #  columns: 0
-  #  lines: 0
-  # Window position (changes require restart)
-  #
-  # Specified in number of pixels.
-  # If the position is not set, the window manager will handle the placement.
-  #position:
-  #  x: 0
-  #  y: 0
-  # Window padding (changes require restart)
-  #
-  # Blank space added around the window in pixels. This padding is scaled
-  # by DPI and the specified value is always added at both opposing sides.
-  # padding:
-  # x: 0
-  # y: 0
-  # # Spread additional padding evenly around the terminal content.
-  # dynamic_padding: true
-  # Window decorations
-  #
-  # Values for `decorations`:
-  #     - full: Borders and title bar
-  #     - none: Neither borders nor title bar
-  #
-  # Values for `decorations` (macOS only):
-  #     - transparent: Title bar, transparent background and title bar buttons
-  #     - buttonless: Title bar, transparent background, but no title bar buttons
-  #decorations: full
-  # Startup Mode (changes require restart)
-  #
-  # Values for `startup_mode`:
-  #   - Windowed
-  #   - Maximized
-  #   - Fullscreen
-  #
-  # Values for `startup_mode` (macOS only):
-  #   - SimpleFullscreen
-  #startup_mode: Windowed
-  # Window title
-  #title: Alacritty
-  # Window class (Linux/BSD only):
-  #class:
-  # Application instance name
-  #instance: Alacritty
-  # General application class
-  #general: Alacritty
-  # GTK theme variant (Linux/BSD only)
-  #
-  # Override the variant of the GTK theme. Commonly supported values are `dark` and `light`.
-  # Set this to `None` to use the default theme variant.
-  # gtk_theme_variant: dark
-  #scrolling:
-  # Maximum number of lines in the scrollback buffer.
-  # Specifying '0' will disable scrolling.
-  #history: 10000
-  # Number of lines the viewport will move for every line scrolled when
-  # scrollback is enabled (history > 0).
-  #multiplier: 3
+# Window dimensions (changes require restart)
+#
+# Specified in number of columns/lines, not pixels.
+# If both are `0`, this setting is ignored.
+#dimensions:
+#  columns: 0
+#  lines: 0
+# Window position (changes require restart)
+#
+# Specified in number of pixels.
+# If the position is not set, the window manager will handle the placement.
+#position:
+#  x: 0
+#  y: 0
+# Window padding (changes require restart)
+#
+# Blank space added around the window in pixels. This padding is scaled
+# by DPI and the specified value is always added at both opposing sides.
+# padding:
+# x: 0
+# y: 0
+# # Spread additional padding evenly around the terminal content.
+# dynamic_padding: true
+# Window decorations
+#
+# Values for `decorations`:
+#     - full: Borders and title bar
+#     - none: Neither borders nor title bar
+#
+# Values for `decorations` (macOS only):
+#     - transparent: Title bar, transparent background and title bar buttons
+#     - buttonless: Title bar, transparent background, but no title bar buttons
+#decorations: full
+# Startup Mode (changes require restart)
+#
+# Values for `startup_mode`:
+#   - Windowed
+#   - Maximized
+#   - Fullscreen
+#
+# Values for `startup_mode` (macOS only):
+#   - SimpleFullscreen
+#startup_mode: Windowed
+# Window title
+#title: Alacritty
+# Window class (Linux/BSD only):
+#class:
+# Application instance name
+#instance: Alacritty
+# General application class
+#general: Alacritty
+# GTK theme variant (Linux/BSD only)
+#
+# Override the variant of the GTK theme. Commonly supported values are `dark` and `light`.
+# Set this to `None` to use the default theme variant.
+# gtk_theme_variant: dark
+#scrolling:
+# Maximum number of lines in the scrollback buffer.
+# Specifying '0' will disable scrolling.
+#history: 10000
+# Number of lines the viewport will move for every line scrolled when
+# scrollback is enabled (history > 0).
+#multiplier: 3
 cursor:
   style:
     shape: Beam
@@ -93,7 +93,7 @@ font:
   # Normal (roman) font face
   normal:
     family: "JetBrainsMono Nerd Font"
-    # family: "CascadiaMono" 
+    # family: "CascadiaMono"
     # style: Bold
 
   # Bold font face
@@ -125,28 +125,28 @@ font:
 colors:
   # Default colors
   primary:
-    background: '#0A0E14'
-    foreground: '#FFFFFF'
+    background: "#0A0E14"
+    foreground: "#FFFFFF"
 
   # Normal colors
   normal:
-    black: '#01060E'
-    red: '#EA6C73'
-    green: '#91B362'
-    yellow: '#F9AF4F'
-    blue: '#53BDFA'
-    magenta: '#FAE994'
-    cyan: '#90E1C6'
-    white: '#C7C7C7'
+    black: "#01060E"
+    red: "#EA6C73"
+    green: "#91B362"
+    yellow: "#F9AF4F"
+    blue: "#53BDFA"
+    magenta: "#FAE994"
+    cyan: "#90E1C6"
+    white: "#C7C7C7"
 
   # Bright colors
   bright:
-    black: '#686868'
-    red: '#F07178'
-    green: '#C2D94C'
-    yellow: '#FFB454'
-    blue: '#59C2FF'
-    magenta: '#FFEE99'
-    cyan: '#95E6CB'
-    white: '#FFFFFF'
+    black: "#686868"
+    red: "#F07178"
+    green: "#C2D94C"
+    yellow: "#FFB454"
+    blue: "#59C2FF"
+    magenta: "#FFEE99"
+    cyan: "#95E6CB"
+    white: "#FFFFFF"
 theme: Ayu-Dark
