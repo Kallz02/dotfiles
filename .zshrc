@@ -32,3 +32,10 @@ source ~/zsh-autosuggestions/zsh-autosuggestions.zsh
 # source <(ng completion script)
 
 export PATH="/home/akshayk/.detaspace/bin:$PATH"
+
+# bun completions
+[ -s "/home/akshayk/.bun/_bun" ] && source "/home/akshayk/.bun/_bun"
+
+# bun
+export BUN_INSTALL="$HOME/.bun"
+export PATH="$BUN_INSTALL/bin:$PATH"

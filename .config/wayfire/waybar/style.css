@@ -36,7 +36,7 @@ window#waybar.hidden {
 /** ********** Battery ********** **/
 #battery {
 	background-color: #fff;
-  border:2px solid #5b6370;
+  /* border:2px solid #5b6370; */
   color: #000;
 }
 
