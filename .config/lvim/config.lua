@@ -12,7 +12,7 @@ an executable
 lvim.log.level = "warn"
 lvim.format_on_save.enabled = true
 -- lvim.colorscheme = "lunar"
-lvim.colorscheme = "github_dark_default"
+lvim.colorscheme = "github_dark_high_contrast"
 lvim.keys.normal_mode["<Space>t"] = ":ToggleTerm size=12 direction=horizontal<cr>"
 lvim.keys.normal_mode["<Space>r"] = ":RunCodeFile<cr>"
 vim.opt.relativenumber = true

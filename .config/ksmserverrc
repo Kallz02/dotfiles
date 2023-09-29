@@ -5,9 +5,15 @@ update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_valu
 count=0
 
 [Session: saved at previous logout]
-clientId1=10fb14113cd8000169248035100000011140004
-count=1
+clientId1=10fb14113cd8000169579466900000049590005
+clientId2=10fb14113cd8000169579471500000049590006
+count=2
+discardCommand2[$e]=rm,$HOME/.config/session/kdenlive_10fb14113cd8000169579471500000049590006_1695801998_937848
 program1=/usr/lib/DiscoverNotifier
-restartCommand1=/usr/lib/DiscoverNotifier,-session,10fb14113cd8000169248035100000011140004_1692488980_123906
+program2=/usr/bin/kdenlive
+restartCommand1=/usr/lib/DiscoverNotifier,-session,10fb14113cd8000169579466900000049590005_1695801998_937845
+restartCommand2=/usr/bin/kdenlive,-session,10fb14113cd8000169579471500000049590006_1695801998_937848
 restartStyleHint1=0
+restartStyleHint2=0
 userId1=akshayk
+userId2=akshayk

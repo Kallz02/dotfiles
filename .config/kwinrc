@@ -39,6 +39,11 @@ magnifierEnabled=true
 wobblywindowsEnabled=true
 zoomEnabled=false
 
+[TabBox]
+ActivitiesMode=0
+DesktopMode=0
+ShowDesktopMode=1
+
 [Tiling]
 padding=4
 
