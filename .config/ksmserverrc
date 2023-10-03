@@ -2,17 +2,19 @@
 update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_value_default_enum
 
 [LegacySession: saved at previous logout]
-count=0
+clientMachine1=localhost
+command1=nemo
+count=1
 
 [Session: saved at previous logout]
-clientId1=10fb14113cd8000169579466900000049590005
-clientId2=10fb14113cd8000169579471500000049590006
+clientId1=10fb14113cd8000169617182700000067310005
+clientId2=10fb14113cd8000169617188200000067310009
 count=2
-discardCommand2[$e]=rm,$HOME/.config/session/kdenlive_10fb14113cd8000169579471500000049590006_1695801998_937848
+discardCommand2[$e]=rm,$HOME/.config/session/systemsettings_10fb14113cd8000169617188200000067310009_1696172015_897668
 program1=/usr/lib/DiscoverNotifier
-program2=/usr/bin/kdenlive
-restartCommand1=/usr/lib/DiscoverNotifier,-session,10fb14113cd8000169579466900000049590005_1695801998_937845
-restartCommand2=/usr/bin/kdenlive,-session,10fb14113cd8000169579471500000049590006_1695801998_937848
+program2=/usr/bin/systemsettings
+restartCommand1=/usr/lib/DiscoverNotifier,-session,10fb14113cd8000169617182700000067310005_1696172015_897654
+restartCommand2=/usr/bin/systemsettings,-session,10fb14113cd8000169617188200000067310009_1696172015_897668
 restartStyleHint1=0
 restartStyleHint2=0
 userId1=akshayk

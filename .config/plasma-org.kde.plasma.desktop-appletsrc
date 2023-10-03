@@ -24,7 +24,7 @@ DialogWidth=720
 ToolBoxButtonState=topcenter
 ToolBoxButtonX=558
 ToolBoxButtonY=20
-positions={"1920x1080":["1"\\,"17"\\,"desktop:/Layout"\\,"0"\\,"3"\\,"desktop:/Legal.jsx"\\,"0"\\,"2"\\,"desktop:/images"\\,"0"\\,"1"\\,"desktop:/logins.csv"\\,"0"\\,"0"]\\,"1024x768":[""]\\,"0x0":[]}
+positions={"1920x1080":[]\\,"1024x768":[""]\\,"0x0":[]}
 sortMode=-1
 
 [Containments][1][Wallpaper][org.kde.image][General]
@@ -71,10 +71,6 @@ plugin=org.kde.plasma.panelspacer
 [Containments][2][Applets][23]
 immutability=1
 plugin=org.kde.plasma.panelspacer
-
-[Containments][2][Applets][26]
-immutability=1
-plugin=org.kde.plasma.appmenu
 
 [Containments][2][Applets][28]
 immutability=1
@@ -128,7 +124,7 @@ DialogHeight=84
 DialogWidth=1920
 
 [Containments][2][General]
-AppletOrder=3;26;23;22;6;7;18;19
+AppletOrder=3;23;22;6;7;18;19
 
 [Containments][30]
 activityId=131d1b95-8c3a-4e10-9ba5-dc2bbca23398
@@ -249,4 +245,4 @@ knownItems=org.kde.plasma.vault,org.kde.plasma.manage-inputmethod,org.kde.plasma
 
 [ScreenMapping]
 itemsOnDisabledScreens=
-screenMapping=desktop:/akshay loan info  nesl.pdf,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/Responsively-Screenshots,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/Layout,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/vsliveshare-1.0.5832_vsixhub.com.vsix,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/Legal.jsx,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/sun.svg,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/fddf.pdf,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/channels4_profile.jpg,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/logins.csv,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/Akshay's Resume (1).docx,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/steam.desktop,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/bookmarks_3_4_23.html,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/com.blackmagicdesign.resolve.desktop,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/images,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398
+screenMapping=desktop:/bookmarks_3_4_23.html,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/vsliveshare-1.0.5832_vsixhub.com.vsix,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/Responsively-Screenshots,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/Layout,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/sun.svg,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/fddf.pdf,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/images,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/steam.desktop,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/Akshay's Resume (1).docx,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/logins.csv,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/akshay loan info  nesl.pdf,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/Legal.jsx,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/channels4_profile.jpg,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/com.blackmagicdesign.resolve.desktop,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398

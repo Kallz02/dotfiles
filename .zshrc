@@ -1,6 +1,7 @@
 # Lines configured by zsh-newuser-install
 HISTFILE=~/.histfile
-HISTSIZE=1000000
+HISTSIZE=100000000
+SAVEHIST=100000000
 bindkey -e
 autoload -Uz compinit && compinit
 # End of lines configured by zsh-newuser-install
@@ -15,6 +16,7 @@ alias dt='/usr/bin/git --git-dir=$HOME/dotfiles/ --work-tree=$HOME'
 alias neo='env -u WAYLAND_DISPLAY neovide-lunarvim '
 source /usr/share/nvm/init-nvm.sh
 export XDG_CURRENT_DESKTOP=GNOME
+export NPM_CONFIG_PREFIX=~/.npm-global
 # Enable syntax highlighting.
 source ~/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 # Enable autosuggestions.

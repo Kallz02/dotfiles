@@ -11,7 +11,7 @@ while pgrep -x waybar >/dev/null; do sleep 1; done
 
 # Launch main
 wbg ~/Pictures/scrot/test16.jpg &
-dunst -config /home/roidm/.config/dunst/dunstrc.sway &
+dunst -config /home/akshayk/.config/dunst/dunstrc.sway &
 polkit-gnome-authentication-agent-1 &
 waybar -c $HOME/.config/sway-borders/tokyo -s $HOME/.config/sway/tokyo.css
 sleep 2 && pamixer --set-volume 70

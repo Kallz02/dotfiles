@@ -5,7 +5,6 @@ alhp-mirrorlist
 alsa-firmware
 alsa-utils
 amf-headers
-an-anime-game-launcher-gtk-bin
 ananicy-cpp-git
 android-studio
 android-studio-canary
@@ -37,7 +36,6 @@ breeze-icons
 bridge-utils
 brightnessctl
 brillo
-carla
 catppuccin-gtk-theme-mocha
 cava
 clipman
@@ -200,8 +198,6 @@ lightdm-settings
 lightdm-slick-greeter
 lightly-qt
 linux-firmware
-linux-xanmod-linux-bin-x64v3
-linux-xanmod-linux-headers-bin-x64v3
 lsp-plugins
 lxappearance
 ly
@@ -222,7 +218,6 @@ mpd
 mpd-mpris
 mpdris2-git
 mpv-amd-full-git
-mpv-mpris
 museeks-bin
 mutter
 nano
@@ -260,7 +255,6 @@ oxygen-icons
 oxygen-sounds
 p7zip
 pacman
-pamac-flatpak
 pamixer
 papirus-icon-theme
 paru
@@ -397,8 +391,6 @@ vkbasalt
 vrrtest-git
 vscodium
 vscodium-marketplace
-waifu2x-converter-cpp-git
-waifu2x-converter-qt-git
 waybar-hyprland-git
 wayfire-git
 wayfire-plugins-extra-git
@@ -496,7 +488,6 @@ linux-clear-headers
 lsof
 lunarvim-git
 mongodb-compass
-mpv
 ns
 opencl-amd-dev
 plasma-wayland-session
@@ -506,7 +497,6 @@ spectacle
 tailscale
 teams-for-linux
 ungoogled-chromium-xdg-bin
-visual-studio-code-insiders-bin
 vscodium-bin
 vscodium-bin-marketplace
 waterfox-g-bin
@@ -592,7 +582,6 @@ nmap
 nwg-look
 orca
 pamac-aur
-pgadmin4
 portmaster-stub-bin
 postgresql
 python-django

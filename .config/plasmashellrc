@@ -3,6 +3,9 @@ Recent Files[$e]=krsna3.png,file:$HOME/Documents/krsna3_upscayl_8x_realesrgan-x4
 Recent URLs[$e]=file:$HOME/Documents/,file:$HOME/,file:$HOME/Pictures/
 detailViewIconSize=16
 
+[PlasmaTransientsConfig]
+PreloadWeight=42
+
 [PlasmaViews][Panel 2]
 panelOpacity=1
 

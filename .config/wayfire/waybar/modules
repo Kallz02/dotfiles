@@ -7,14 +7,14 @@
 		"rotate": 0,
         //"device": "amdgpu_bl0",
         "format": "{icon} {percent}%",
-        "format-icons": ["", "", "", ""],
+        "format-icons": [ "", "", ""],
 		// Commands to execute on events
         "on-click": "",
         "on-click-middle": "",
         "on-click-right": "",
         "on-update": "",
-        "on-scroll-up": "brillo -A 5",
-        "on-scroll-down": "brillo -U 5",
+        "on-scroll-up": "sudo brillo -A 5",
+        "on-scroll-down": "sudo brillo -U 5",
         "smooth-scrolling-threshold": 1,
     },
 "custom/pulseaudio-cycle": {
@@ -74,8 +74,8 @@
 	// waybar-cpu
     "cpu": {
          "interval": 5,
-         "format": "﬙ :{usage}%",
-         /* "format": "⏲  :{usage}%", */
+         /* "format": "﬙ :{usage}%",*/
+         "format": "⏲  :{usage}%",
     },
            
 	// waybar-custom
@@ -86,8 +86,8 @@
     },
 
     "custom/power":{
-        /* "format": " ", */
-        "format": "🮶 ",
+        "format": " ", 
+        /* "format": "🮶 ", */
         "on-click": "wlogout",
     },
     "custom/cpu": {
@@ -182,7 +182,7 @@
             "phone": "",
             "portable": "",
             "car": "",
-            "default": ["奄", "奔", "墳"]
+            "default": [" "]
         },
         "scroll-step": 5.0,
 		// Commands to execute on events

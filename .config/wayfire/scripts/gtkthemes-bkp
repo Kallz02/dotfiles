@@ -7,7 +7,7 @@ THEME='Juno-ocean'
 # THEME='Material-DeepOcean-BL'
 ICONS='ePapirus-Dark'
 # FONT='Noto Sans 10'
-FONT='Droid Sans 13'
+FONT='Droid Sans 11'
 CURSOR='Future'
 
 SCHEMA='gsettings set org.gnome.desktop.interface'

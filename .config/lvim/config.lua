@@ -11,8 +11,8 @@ an executable
 -- general
 lvim.log.level = "warn"
 lvim.format_on_save.enabled = true
--- lvim.colorscheme = "lunar"
-lvim.colorscheme = "github_dark_high_contrast"
+lvim.colorscheme = "lunar"
+-- lvim.colorscheme = "github_dark_high_contrast"
 lvim.keys.normal_mode["<Space>t"] = ":ToggleTerm size=12 direction=horizontal<cr>"
 lvim.keys.normal_mode["<Space>r"] = ":RunCodeFile<cr>"
 vim.opt.relativenumber = true
@@ -72,8 +72,8 @@ lvim.builtin.alpha.mode = "dashboard"
 lvim.builtin.terminal.active = true
 lvim.builtin.nvimtree.setup.view.side = "left"
 lvim.builtin.nvimtree.setup.renderer.icons.show.git = false
-require("lvim.lsp.manager").setup("angularls")
-require("lvim.lsp.manager").setup("emmet_ls")
+-- require("lvim.lsp.manager").setup("angularls")
+-- require("lvim.lsp.manager").setup("emmet_ls")
 -- if you don't want all the parsers change this to a table of the ones you want
 lvim.builtin.treesitter.ensure_installed = {
   "bash",

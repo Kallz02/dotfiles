@@ -29,6 +29,11 @@ Rows=1
 DesktopLayoutMode=1
 DesktopNameAlignment=132
 
+[Effect-ًRound-Corners]
+ActiveShadowPalette=10
+InactiveOutlinePalette=20
+InactiveShadowPalette=10
+
 [Plugins]
 blurEnabled=true
 contrastEnabled=false
