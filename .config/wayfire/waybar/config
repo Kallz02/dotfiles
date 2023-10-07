@@ -18,7 +18,7 @@
     "margin-right": 0, 	
     /* "fixed-center": true,  */
     "ipc": true, 		
-    "modules-left": ["custom/menu", "cpu","custom/cpu", "disk"],
-    "modules-center": ["clock","tray","custom/waybar-media"],
-    "modules-right": ["custom/kernel","pulseaudio", "backlight", "network", "battery","custom/power"],
+    "modules-left": ["custom/menu","hyprland/workspaces" , "hyprland/window" ],
+    "modules-center": [ "cpu","clock","tray","custom/waybar-media"],
+    "modules-right": ["disk","custom/cpu", "custom/kernel","pulseaudio", "backlight", "network", "battery","custom/power"],
 }

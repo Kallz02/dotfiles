@@ -13,7 +13,7 @@ neowofetch -b fastfetch
 eval "$(starship init zsh)"
 PROMPT_EOL_MARK=''
 alias dt='/usr/bin/git --git-dir=$HOME/dotfiles/ --work-tree=$HOME'
-alias neo='env -u WAYLAND_DISPLAY neovide-lunarvim '
+alias neo='neovide --nofork'
 source /usr/share/nvm/init-nvm.sh
 export XDG_CURRENT_DESKTOP=GNOME
 export NPM_CONFIG_PREFIX=~/.npm-global
@@ -28,6 +28,7 @@ source ~/zsh-autosuggestions/zsh-autosuggestions.zsh
 
 
 
+alias sudo='nocorrect sudo -E '
 
 # Load Angular CLI autocompletion.
 # source <(ng completion script)
@@ -36,7 +37,6 @@ export PATH="/home/akshayk/.detaspace/bin:$PATH"
 
 # bun completions
 [ -s "/home/akshayk/.bun/_bun" ] && source "/home/akshayk/.bun/_bun"
-
 # bun
 export BUN_INSTALL="$HOME/.bun"
 export PATH="$BUN_INSTALL/bin:$PATH"
