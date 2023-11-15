@@ -6,17 +6,20 @@
   font-weight: 600;
   min-height: 0;
 }
-
+/* @define-color custom rgba(10, 11, 17, 0.8); */
+/* @define-color custom #131520; */
+@define-color custom #1B1C24;
 /** ********** Waybar Window ********** **/
 window#waybar {
   /* background: rgba(36, 39, 58, 0.4); */
   /* background: rgba(15, 17, 26, 0.9); */
-  background: rgba(14, 19, 27, 0.9);
+  /* background: rgba(10, 11, 17, 0); */
+  background: #0a0b11;
 
   /* backdrop-filter: opacity(0.7); */
   color: #000000;
   border-color: #072112;
-  box-shadow: 4px 4px 2px 1px #000000;
+  /* box-shadow: 4px 4px 2px 1px #000000; */
   transition-property: background-color;
   transition-duration: 0.5s;
 }
@@ -39,16 +42,16 @@ window#waybar.hidden {
   /* ); */
   /* background-size: 150% 150%; */
   /* animation: gradient 8s ease infinite; */
-  box-shadow: rgba(0, 0, 0, 0.288) 2 2 5 2px;
-  text-shadow: 0 0 5px rgba(0, 0, 0, 0.377);
-  background-color: #0f0f0f;
+  /* box-shadow: rgba(0, 0, 0, 0.288) 2 2 5 2px; */
+  /* text-shadow: 0 0 5px rgba(0, 0, 0, 0.377); */
+  background-color: @custom;
 }
 
 /** ********** Battery ********** **/
 #battery {
   color: #fff;
   /* border:2px solid #5b6370; */
-  background-color: #0f0f0f;
+  background-color: @custom;
 }
 
 #battery.charging {
@@ -87,9 +90,9 @@ window#waybar.hidden {
   margin-right: 25px;
 
   color: #cba6f7;
-  background-color: #0f0f0f;
+  background-color: @custom;
   /* background-size: 150% 150%; */
-  text-shadow: 0 0 5px rgba(0, 0, 0, 0.377);
+  /* text-shadow: 0 0 5px rgba(0, 0, 0, 0.377); */
   /* animation: gradient 8s ease infinite; */
 }
 
@@ -97,8 +100,8 @@ window#waybar.hidden {
 #cpu {
   color: #fff;
   /*box-shadow: rgba(0, 0, 0, 0.116) 2 2 5 2px;*/
-  box-shadow: 4px 4px 2px 1px #101010;
-  background-color: #0f0f0f;
+  /* box-shadow: 4px 4px 2px 1px #101010; */
+  background-color: @custom;
 }
 
 /** ********** Memory ********** **/
@@ -130,20 +133,20 @@ window#waybar.hidden {
 }
 #custom-cpu {
   color: #eba0ac;
-  background-color: #000011;
+  background-color: @custom;
 }
 
 /** ********** Disk ********** **/
 #disk {
   /* background-color: #b4befe; */
   color: #94e2d5;
-  background-color: #0f0f0f;
-  box-shadow: 4px 4px 2px 1px #101010;
+  background-color: @custom;
+  /* box-shadow: 4px 4px 2px 1px #101010; */
 }
 
 /** ********** Tray ********** **/
 #tray {
-  background-color: #0c0b12;
+  background-color: @custom;
   padding: 0 12px;
   margin: 0px 4px 0px 4px;
   border-radius: 10px;
@@ -162,17 +165,17 @@ window#waybar.hidden {
   /* background-size: 150% 150%; */
   /* animation: gradient 20s ease infinite; */
   /* text-shadow: 0 0 5px rgba(0, 0, 0, 0.377); */
-  background-color: #0f0f0f;
+  background-color: @custom;
 }
 
 #mpd {
   color: #94e2d5;
-  background-color: #0f0f0f;
+  background-color: @custom;
 }
 
 #mpd.disconnected {
   color: #f38ba8;
-  background-color: #0f0f0f;
+  background-color: @custom;
 }
 
 #mpd.stopped {
@@ -187,7 +190,7 @@ window#waybar.hidden {
   /* background-size: 150% 150%; */
   /* animation: gradient 20s ease infinite; */
   text-shadow: 0 0 5px rgba(0, 0, 0, 0.377);
-  background-color: #0f0f0f;
+  background-color: @custom;
 }
 
 #mpd.playing {
@@ -202,11 +205,11 @@ window#waybar.hidden {
   /* background-size: 150% 150%; */
   /* animation: gradient 20s ease infinite; */
   /* text-shadow: 0 0 5px rgba(0, 0, 0, 0.377); */
-  background-color: #0f0f0f;
+  background-color: @custom;
 }
 
 #mpd.paused {
-  color: #0f0f0f;
+  color: #f5c2e7;
 }
 
 /** ********** Pulseaudio ********** **/
@@ -214,12 +217,12 @@ window#waybar.hidden {
   /* background-color: #fab387; */
 
   color: #94e2d5;
-  background-color: #0f0f0f;
+  background-color: @custom;
 }
 
 #pulseaudio.bluetooth {
   color: #f5c2e7;
-  background-color: #0f0f0f;
+  background-color: @custom;
 }
 #pulseaudio.muted {
   color: #313244;
@@ -239,7 +242,7 @@ window#waybar.hidden {
   /* background-size: 150% 150%; */
   /* animation: gradient 20s ease infinite; */
   /* text-shadow: 0 0 5px rgba(0, 0, 0, 0.377); */
-  background-color: #0f0f0f;
+  background-color: @custom;
 }
 
 #network.disconnected,
@@ -274,7 +277,7 @@ window#waybar.hidden {
 }
 
 #custom-menu {
-  background-color: #0f0f0f;
+  background-color: @custom;
   color: powderblue;
   font-size: 12;
   padding: 0 12px;
@@ -284,7 +287,7 @@ window#waybar.hidden {
 }
 
 #custom-power {
-  background-color: #0f0f0f;
+  background-color: @custom;
   color: powderblue;
 
   padding: 0 12px;
@@ -296,7 +299,7 @@ window#waybar.hidden {
   /* background-color: #000; */
   color: #b4befe;
   /* color: darkgray; */
-  background-color: #0f0f0f;
+  background-color: @custom;
   font-weight: 600;
 
   /* border:2px solid #5b6370; */
@@ -324,12 +327,13 @@ window#waybar.hidden {
 
 #workspaces {
   color: #fff;
-  background: #0f0f0f;
+  background: @custom;
+  border-radius: 10px;
 }
 
 #window {
   color: #fff;
-  background: #0f0f0f;
+  background: @custom;
 }
 /** Common style **/
 #window,

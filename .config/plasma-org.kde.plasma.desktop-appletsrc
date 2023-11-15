@@ -24,7 +24,7 @@ DialogWidth=720
 ToolBoxButtonState=topcenter
 ToolBoxButtonX=558
 ToolBoxButtonY=20
-positions={"1920x1080":[]\\,"1024x768":[""]\\,"0x0":[]}
+positions={"1920x1080":["1"\\,"17"\\,"desktop:/1-Industrial-Internship-Report-20MIC0023.pdf"\\,"0"\\,"1"\\,"desktop:/1-Industrial-Internship-Report-20MIC0023_compressed.pdf"\\,"0"\\,"0"\\,"desktop:/pass.jpg"\\,"0"\\,"7"\\,"desktop:/lsmreview1.pdf"\\,"0"\\,"6"\\,"desktop:/5-About-The-Company.pdf"\\,"0"\\,"5"\\,"desktop:/4-20MIC0023-Akshay_ Pranav_Kalathil_Experience Letter.pdf"\\,"0"\\,"4"\\,"desktop:/3-INDUSTRIAL-INTERNSHIP-20MIC0023.pptx"\\,"0"\\,"3"\\,"desktop:/2-Activity-Diary-20MIC0023.pdf"\\,"0"\\,"2"]\\,"1024x768":[""]\\,"0x0":[]}
 sortMode=-1
 
 [Containments][1][Wallpaper][org.kde.image][General]
@@ -208,7 +208,7 @@ immutability=1
 plugin=org.kde.plasma.networkmanagement
 
 [Containments][8][Applets][21][Configuration]
-PreloadWeight=98
+PreloadWeight=100
 
 [Containments][8][Applets][22]
 immutability=1
@@ -245,4 +245,4 @@ knownItems=org.kde.plasma.vault,org.kde.plasma.manage-inputmethod,org.kde.plasma
 
 [ScreenMapping]
 itemsOnDisabledScreens=
-screenMapping=desktop:/bookmarks_3_4_23.html,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/vsliveshare-1.0.5832_vsixhub.com.vsix,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/Responsively-Screenshots,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/Layout,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/sun.svg,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/fddf.pdf,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/images,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/steam.desktop,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/Akshay's Resume (1).docx,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/logins.csv,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/akshay loan info  nesl.pdf,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/Legal.jsx,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/channels4_profile.jpg,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/com.blackmagicdesign.resolve.desktop,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398
+screenMapping=desktop:/2-Activity-Diary-20MIC0023.pdf,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/logins.csv,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/com.blackmagicdesign.resolve.desktop,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/akshay loan info  nesl.pdf,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/5-About-The-Company.pdf,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/steam.desktop,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/Layout,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/pass.jpg,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/sun.svg,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/1-Industrial-Internship-Report-20MIC0023_compressed.pdf,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/lsmreview1.pdf,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/1-Industrial-Internship-Report-20MIC0023.pdf,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/Legal.jsx,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/fddf.pdf,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/bookmarks_3_4_23.html,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/vsliveshare-1.0.5832_vsixhub.com.vsix,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/Akshay's Resume (1).docx,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/Responsively-Screenshots,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/3-INDUSTRIAL-INTERNSHIP-20MIC0023.pptx,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/4-20MIC0023-Akshay_ Pranav_Kalathil_Experience Letter.pdf,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/channels4_profile.jpg,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398,desktop:/images,0,131d1b95-8c3a-4e10-9ba5-dc2bbca23398
