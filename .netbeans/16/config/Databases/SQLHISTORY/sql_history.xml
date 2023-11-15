@@ -1,4 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<history>
-<sql date="1675268949302" url="jdbc:mysql://localhost:3306/student?zeroDateTimeBehavior=CONVERT_TO_NULL">SELECT * FROM stud LIMIT 100</sql>
-</history>

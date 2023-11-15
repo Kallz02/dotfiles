@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE target-module-list PUBLIC "-//org_netbeans_modules_j2ee//DTD TargetModule 1.0//EN" "nbres:/org/netbeans/modules/j2ee/deployment/impl/target-module.dtd">
-<target-module-list>
-    <target-module content-dir="/home/akshayk/Coding/netbeans/sttt/build/web" context-root="/sttt" id="sttt" instance-url="[/home/akshayk/Coding/Glassfish_Server/glassfish:/home/akshayk/Coding/Glassfish_Server/glassfish/domains/domain1]deployer:gfv610ee9:localhost:4848" target-name="GlassFish Server" timestamp="1675592939594"/>
-</target-module-list>
