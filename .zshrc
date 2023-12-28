@@ -13,10 +13,10 @@ neowofetch -b fastfetch
 eval "$(starship init zsh)"
 PROMPT_EOL_MARK=''
 alias dt='/usr/bin/git --git-dir=$HOME/dotfiles/ --work-tree=$HOME'
-alias neo='neovide --nofork'
+alias neo='neovide --no-fork'
 source /usr/share/nvm/init-nvm.sh
 export XDG_CURRENT_DESKTOP=GNOME
-export NPM_CONFIG_PREFIX=~/.npm-global
+# export NPM_CONFIG_PREFIX=~/.npm-global
 # Enable syntax highlighting.
 source ~/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 # Enable autosuggestions.

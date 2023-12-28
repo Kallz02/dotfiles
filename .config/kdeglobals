@@ -108,12 +108,12 @@ DirSelectDialog Size=846,616
 History Items[$e]=file:$HOME,file:$HOME/Music/Salem/Videos,file:$HOME/.themes/Carl,file:$HOME/.themes/PearDarkBlue,file:$HOME/.themes
 
 [General]
-BrowserApplication=google-chrome.desktop
+BrowserApplication=brave-browser.desktop
 ColorScheme=Gently
 ColorSchemeHash=215c34bda75ba8108f2263e97ab41675939a17bc
 Name=Gently
-TerminalApplication=kitty
-TerminalService=kitty.desktop
+TerminalApplication=alacritty
+TerminalService=Alacritty.desktop
 shadeSortColumn=true
 
 [Icons]

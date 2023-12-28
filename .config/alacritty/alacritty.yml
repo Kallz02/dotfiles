@@ -91,25 +91,25 @@ cursor:
 # Font configuration
 font:
   # Normal (roman) font face
-  normal:
-    family: "JetBrainsMono Nerd Font"
-    # family: "CascadiaMono"
-    # style: Bold
+  # normal:
+  # family: "JetBrainsMono Nerd Font"
+  # family: "JetBrainsMono Nerd Font Mono"
+  # style: Bold
 
   # Bold font face
-  bold:
-    family: "JetBrainsMono Nerd Font"
-    #style: Bold
+  # bold:
+  # family: "JetBrainsMono Nerd Font"
+  #style: Bold
 
   # Italic font face
-  italic:
-    family: "JetBrainsMono Nerd Font"
-    style: Italic
+  # italic:
+  # family: "JetBrainsMono Nerd Font"
+  # style: Italic
 
   # Bold italic font face
-  bold_italic:
-    family: "JetBrainsMono Nerd Font"
-    #style: Bold Italic
+  # bold_italic:
+  # family: "JetBrainsMono Nerd Font"
+  #style: Bold Italic
 
   # Point size
   size: 13

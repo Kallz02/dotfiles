@@ -1,6 +1,6 @@
 local wezterm = require("wezterm")
 return {
-  font_size = 13,
+  font_size = 14,
   enable_tab_bar = false,
   window_padding = {
     left = 0,

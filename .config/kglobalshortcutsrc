@@ -18,7 +18,7 @@ _k_friendly_name=Accessibility
 [kcm_touchpad]
 Disable Touchpad=Touchpad Off,Touchpad Off,Disable Touchpad
 Enable Touchpad=Touchpad On,Touchpad On,Enable Touchpad
-Toggle Touchpad=Touchpad Toggle,Touchpad Toggle,Toggle Touchpad
+Toggle Touchpad=Touchpad Toggle,Touchpad Toggle\tMeta+Ctrl+Zenkaku Hankaku,Toggle Touchpad
 _k_friendly_name=Touchpad
 
 [kded5]
@@ -203,7 +203,7 @@ Window to Screen 6=none,,Window to Screen 6
 Window to Screen 7=none,,Window to Screen 7
 _k_friendly_name=KWin
 view_actual_size=Meta+0,Meta+0,Zoom to Actual Size
-view_zoom_in=Meta++\tMeta+=,Meta+=,Zoom In
+view_zoom_in=Meta++\tMeta+=,Meta++\tMeta+=,Zoom In
 view_zoom_out=Meta+-,Meta+-,Zoom Out
 
 [lattedock]
