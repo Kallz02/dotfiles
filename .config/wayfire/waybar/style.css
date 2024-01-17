@@ -3,20 +3,23 @@
   /* font-family: "JetBrainsMono Nerd Font", "Iosevka Nerd Font"; */
   font-family: "JetBrainsMono Nerd Font", "Iosevka Nerd Font";
   font-size: 12px;
-  font-weight: 700;
+  font-weight: 600;
   min-height: 0;
 }
+
 /* @define-color custom rgba(10, 11, 17, 0.8); */
 /* @define-color custom #131520; */
-/* @define-color custom #1B1C24; */
-@define-color custom #111722;
+@define-color custom #1B1C24;
+/* @define-color custom #2D293B; */
+/* @define-color custom; */
+
 /** ********** Waybar Window ********** **/
 window#waybar {
   /* background: rgba(36, 39, 58, 0.4); */
-  background: rgba(15, 17, 26, 0.85);
+  /* background: rgba(15, 17, 26, 0.9); */
   /* background: rgba(10, 11, 17, 0); */
-  /* background: #0a0b11; */
-  /* background: #111722; */
+  background: #0a0b11;
+
   /* backdrop-filter: opacity(0.7); */
   color: #000000;
   border-color: #072112;
@@ -125,13 +128,16 @@ window#waybar.hidden {
   0% {
     background-position: 0% 50%;
   }
+
   50% {
     background-position: 100% 50%;
   }
+
   100% {
     background-position: 0% 50%;
   }
 }
+
 #custom-cpu {
   color: #eba0ac;
   background-color: @custom;
@@ -153,6 +159,7 @@ window#waybar.hidden {
   border-radius: 10px;
   background-clip: padding-box;
 }
+
 /** ********** MPD ********** **/
 #custom-waybar-media {
   color: #f5c2e7;
@@ -225,6 +232,7 @@ window#waybar.hidden {
   color: #f5c2e7;
   background-color: @custom;
 }
+
 #pulseaudio.muted {
   color: #313244;
   background-color: #cdd6f4;
@@ -251,12 +259,15 @@ window#waybar.hidden {
   background-color: #313244;
   color: #cdd6f4;
 }
+
 #network.linked {
   color: #89b4fa;
 }
+
 #network.ethernet {
   color: #89b4fa;
 }
+
 #network.wifi {
   color: #89b4fa;
 }
@@ -296,6 +307,7 @@ window#waybar.hidden {
   border-radius: 10px;
   background-clip: padding-box;
 }
+
 #custom-kernel {
   /* background-color: #000; */
   color: #b4befe;
@@ -336,6 +348,7 @@ window#waybar.hidden {
   color: #fff;
   background: @custom;
 }
+
 /** Common style **/
 #window,
 #backlight,
