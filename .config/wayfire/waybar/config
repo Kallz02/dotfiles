@@ -8,7 +8,7 @@
     "exclusive": true, 	
     "passthrough": false, 
     "position": "top", 	
-    "height": 16, 		
+    "height": 14, 		
     "width": "", 		
     "spacing": 4, 		
     "margin": 0, 		
@@ -18,7 +18,7 @@
     "margin-right": 0, 	
     /* "fixed-center": true,  */
     "ipc": true, 		
-    "modules-left": ["custom/menu","tray","wlr/taskbar", "hyprland/window" ,"hyprland/workspaces" ],
-    "modules-center": [ "custom/waybar-media"],
-    "modules-right": ["cpu","disk","custom/cpu", "custom/kernel","pulseaudio", "backlight", "network", "battery","clock","custom/power"],
+    "modules-left": ["custom/menu","wlr/taskbar","hyprland/workspaces" , "hyprland/window" , "custom/waybar-media" ],
+    "modules-center": [ ],
+    "modules-right": [ "custom/kernel","cpu","disk","memory", "pulseaudio", "backlight","network", "battery","clock","tray","custom/power"],
 }

@@ -14,6 +14,7 @@ eval "$(starship init zsh)"
 PROMPT_EOL_MARK=''
 alias dt='/usr/bin/git --git-dir=$HOME/dotfiles/ --work-tree=$HOME'
 alias neo='neovide --no-fork'
+alias k='kubectl'
 source /usr/share/nvm/init-nvm.sh
 export XDG_CURRENT_DESKTOP=GNOME
 # export NPM_CONFIG_PREFIX=~/.npm-global

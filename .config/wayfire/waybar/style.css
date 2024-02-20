@@ -3,20 +3,22 @@
   /* font-family: "JetBrainsMono Nerd Font", "Iosevka Nerd Font"; */
   font-family: "JetBrainsMono Nerd Font", "Iosevka Nerd Font";
   font-size: 12px;
-  font-weight: 600;
+  font-weight: 400;
   min-height: 0;
+  /* z-index: 10; */
 }
 
-/* @define-color custom rgba(10, 11, 17, 0.8); */
+/* @define-color custom rgba(10, 11, 17, 0.5); */
 /* @define-color custom #131520; */
-@define-color custom #1B1C24;
-/* @define-color custom #2D293B; */
+@define-color custom #0F111A;
+/* @define-color custom #1B1C24; */
+/* @define-color custom #0E131B; */
 /* @define-color custom; */
 
 /** ********** Waybar Window ********** **/
 window#waybar {
   /* background: rgba(36, 39, 58, 0.4); */
-  /* background: rgba(15, 17, 26, 0.9); */
+  /* background: rgba(15, 17, 26, 0.4); */
   /* background: rgba(10, 11, 17, 0); */
   background: #0a0b11;
 
@@ -34,7 +36,8 @@ window#waybar.hidden {
 
 /** ********** Backlight ********** **/
 #backlight {
-  color: #cba6f7;
+  /* color: #cba6f7; */
+  color: #b4befe;
 
   /* background: rgb(202, 158, 230); */
   /* background: linear-gradient( */
@@ -53,9 +56,10 @@ window#waybar.hidden {
 
 /** ********** Battery ********** **/
 #battery {
-  color: #fff;
+  color: #b4befe;
   /* border:2px solid #5b6370; */
-  background-color: @custom;
+  /* background-color: @custom; */
+  background-color: transparent;
 }
 
 #battery.charging {
@@ -93,8 +97,11 @@ window#waybar.hidden {
   /* ); */
   margin-right: 25px;
 
-  color: #cba6f7;
-  background-color: @custom;
+  /* color: #cba6f7; */
+  /* color: #94e2d5; */
+  color: #b4befe;
+  /* background-color: @custom; */
+  background-color: transparent;
   /* background-size: 150% 150%; */
   /* text-shadow: 0 0 5px rgba(0, 0, 0, 0.377); */
   /* animation: gradient 8s ease infinite; */
@@ -102,7 +109,7 @@ window#waybar.hidden {
 
 /** ********** CPU ********** **/
 #cpu {
-  color: #fff;
+  color: #b4befe;
   /*box-shadow: rgba(0, 0, 0, 0.116) 2 2 5 2px;*/
   /* box-shadow: 4px 4px 2px 1px #101010; */
   background-color: @custom;
@@ -143,10 +150,17 @@ window#waybar.hidden {
   background-color: @custom;
 }
 
+#memory {
+  color: #b4befe;
+  /* color: #fff; */
+  background-color: @custom;
+}
+
 /** ********** Disk ********** **/
 #disk {
   /* background-color: #b4befe; */
-  color: #94e2d5;
+  /* color: #94e2d5; */
+  color: #b4befe;
   background-color: @custom;
   /* box-shadow: 4px 4px 2px 1px #101010; */
 }
@@ -162,7 +176,9 @@ window#waybar.hidden {
 
 /** ********** MPD ********** **/
 #custom-waybar-media {
-  color: #f5c2e7;
+  /* color: #697780; */
+  /* color: whitesmoke; */
+  color: #b4befe;
   /* background: linear-gradient( */
   /*   52deg, */
   /*   rgba(180, 190, 254, 1) 0%, */
@@ -173,7 +189,8 @@ window#waybar.hidden {
   /* background-size: 150% 150%; */
   /* animation: gradient 20s ease infinite; */
   /* text-shadow: 0 0 5px rgba(0, 0, 0, 0.377); */
-  background-color: @custom;
+  /* background-color: @custom; */
+  background-color: transparent;
 }
 
 #mpd {
@@ -224,7 +241,8 @@ window#waybar.hidden {
 #pulseaudio {
   /* background-color: #fab387; */
 
-  color: #94e2d5;
+  /* color: #94e2d5; */
+  color: #89b4fa;
   background-color: @custom;
 }
 
@@ -340,12 +358,12 @@ window#waybar.hidden {
 
 #workspaces {
   color: #fff;
-  background: @custom;
-  border-radius: 10px;
+  /* background: @custom; */
+  /* border-radius: 10px; */
 }
 
 #window {
-  color: #fff;
+  color: #89b4fa;
   background: @custom;
 }
 
@@ -354,10 +372,10 @@ window#waybar.hidden {
 #backlight,
 #battery,
 #clock,
-#cpu,
-#disk,
+/* #cpu, */
+/* #disk, */
 #mode,
-#memory,
+/* #memory, */
 #mpd,
 #tray,
 #pulseaudio,
@@ -369,5 +387,18 @@ window#waybar.hidden {
   padding: 0 8px;
   margin: 0px 2px 0px 2px;
   border-radius: 10px;
+  background-clip: padding-box;
+}
+
+#cpu,
+#disk,
+#memory {
+  /* color: #000000; */
+
+  /* border: 2px solid gray; */
+  /* padding: 0 8px; */
+  /* margin: 0px 2px 0px 2px; */
+  /* border-radius: 10px; */
+  background: transparent;
   background-clip: padding-box;
 }

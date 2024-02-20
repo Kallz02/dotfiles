@@ -26,14 +26,14 @@ done=PlasmaVolume_DisableKMixAutostart
 mtime=1701816651
 
 [dolphin_detailsmodesettings.upd]
-ctime=1702054427
+ctime=1708017795
 done=rename-leading-padding,move-content-display
-mtime=1701826334
+mtime=1707902946
 
 [filepicker.upd]
-ctime=1702698850
+ctime=1707660220
 done=filepicker-remove-old-previews-entry
-mtime=1701558848
+mtime=1706981421
 
 [fonts_akregator.upd]
 ctime=1701849206
@@ -106,14 +106,14 @@ done=ksmserver_update_loginMode_value_default_enum
 mtime=1701816132
 
 [kwin.upd]
-ctime=1701849206
+ctime=1704639386
 done=replace-scalein-with-scale,port-minimizeanimation-effect-to-js,port-scale-effect-to-js,port-dimscreen-effect-to-js,auto-bordersize,animation-speed,desktop-grid-click-behavior,no-swap-encourage,make-translucency-effect-disabled-by-default,remove-flip-switch-effect,remove-cover-switch-effect,remove-cubeslide-effect,remove-xrender-backend,enable-scale-effect-by-default,overview-group-plugin-id,animation-speed-cleanup,replace-cascaded-zerocornered
-mtime=1701812389
+mtime=1704459213
 
 [kwinrules.upd]
-ctime=1701849206
+ctime=1704639386
 done=replace-placement-string-to-enum,use-virtual-desktop-ids
-mtime=1701812389
+mtime=1704459213
 
 [kxkb.upd]
 ctime=1701849208
@@ -126,9 +126,9 @@ done=split-variants
 mtime=1701816132
 
 [okular.upd]
-ctime=1702054427
+ctime=1708017798
 done=annotation-toolbar,builtin-annotations
-mtime=1701857285
+mtime=1707905975
 
 [plasmashell-5.27-use-panel-thickness-in-default-group.upd]
 ctime=1702833802
@@ -136,23 +136,23 @@ done=plasmashell-5.27-use-panel-thickness-in-default-group
 mtime=1702320594
 
 [spectacle_clipboard.upd]
-ctime=1702054427
+ctime=1708017798
 done=clipboard-settings-change
-mtime=1701857496
+mtime=1707906100
 
 [spectacle_newConfig.upd]
-ctime=1702054427
-mtime=1701857496
+ctime=1708017798
+mtime=1707906100
 
 [spectacle_rememberregion.upd]
-ctime=1702054427
+ctime=1708017798
 done=spectacle-migrate-rememberregion
-mtime=1701857496
+mtime=1707906100
 
 [spectacle_shortcuts.upd]
-ctime=1702054427
+ctime=1708017798
 done=spectacle-migrate-shortcuts
-mtime=1701857496
+mtime=1707906100
 
 [style_widgetstyle_default_breeze.upd]
 ctime=1702833802

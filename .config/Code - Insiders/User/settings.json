@@ -624,5 +624,10 @@
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true,
   "security.workspace.trust.untrustedFiles": "open",
-  "editor.minimap.enabled": false
+  "cody.telemetry.level": "off",
+  "cody.autocomplete.advanced.provider": "experimental-ollama",
+  "cody.autocomplete.experimental.ollamaOptions": {
+    "url": "http://100.64.0.3:11434",
+    "model": "deepseek-coder:6.7b-base-q4_K_M"
+  }
 }
