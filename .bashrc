@@ -20,4 +20,3 @@ source /usr/share/bash-completion/bash_completion
 source <(ng completion script)
 
 
-PATH=~/.console-ninja/.bin:$PATH

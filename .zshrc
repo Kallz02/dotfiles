@@ -50,3 +50,4 @@ case ":$PATH:" in
 esac
 # pnpm end
 export KUBECONFIG=~/.kube/config
+

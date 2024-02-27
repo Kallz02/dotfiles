@@ -5,6 +5,7 @@ export GTK_THEME=Juno-ocean
 PATH="$HOME/.local/bin:$PATH"
 #LIBSEAT_BACKEND=logind
 PATH="/opt/flutter/bin:$PATH"
+export PATH=/home/akshayk/.cargo/bin:$PATH
 # export PATH=~/.npm-global/bin:$PATH
 # export npm_config_prefix="$HOME/.local"
 # export QT_QPA_PLATFORM=wayland

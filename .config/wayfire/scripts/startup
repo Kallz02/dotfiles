@@ -19,3 +19,5 @@ bash ~/.config/wayfire/scripts/notifications &
 
 exec mpd
 
+
+# exec ags &
